@@ -1,0 +1,131 @@
+categoryId,name,description,level,isActive,imageUrl,createdAt
+CAT0001,Electrónica,Dispositivos y accesorios tecnológicos,1,true,https://cdn.ecommerce.gt/categories/cat0001.jpg,2018-08-17
+CAT0002,Moda,Ropa calzado y accesorios de vestir,1,true,https://cdn.ecommerce.gt/categories/cat0002.jpg,2018-02-21
+CAT0003,Hogar,Artículos para el hogar y decoración,1,true,https://cdn.ecommerce.gt/categories/cat0003.jpg,2019-07-18
+CAT0004,Deportes,Equipamiento y ropa deportiva,1,true,https://cdn.ecommerce.gt/categories/cat0004.jpg,2019-05-17
+CAT0005,Libros,Libros físicos y digitales,1,true,https://cdn.ecommerce.gt/categories/cat0005.jpg,2019-04-03
+CAT0006,Belleza,Cosméticos cuidado personal y fragancias,1,true,https://cdn.ecommerce.gt/categories/cat0006.jpg,2018-10-13
+CAT0007,Juguetes,Juguetes y juegos para niños,1,true,https://cdn.ecommerce.gt/categories/cat0007.jpg,2018-07-29
+CAT0008,Alimentos,Alimentos bebidas y productos gourmet,1,true,https://cdn.ecommerce.gt/categories/cat0008.jpg,2018-06-28
+CAT0009,Automóviles,Accesorios y repuestos para vehículos,1,true,https://cdn.ecommerce.gt/categories/cat0009.jpg,2020-05-14
+CAT0010,Mascotas,Alimentos accesorios y cuidado de mascotas,1,true,https://cdn.ecommerce.gt/categories/cat0010.jpg,2018-03-07
+CAT0011,Smartphones,Subcategoría de Electrónica: Smartphones,2,true,https://cdn.ecommerce.gt/categories/cat0011.jpg,2019-03-03
+CAT0012,Laptops,Subcategoría de Electrónica: Laptops,2,true,https://cdn.ecommerce.gt/categories/cat0012.jpg,2020-03-23
+CAT0013,Tablets,Subcategoría de Electrónica: Tablets,2,true,https://cdn.ecommerce.gt/categories/cat0013.jpg,2021-10-31
+CAT0014,Televisores,Subcategoría de Electrónica: Televisores,2,true,https://cdn.ecommerce.gt/categories/cat0014.jpg,2022-02-23
+CAT0015,Audio,Subcategoría de Electrónica: Audio,2,false,https://cdn.ecommerce.gt/categories/cat0015.jpg,2022-08-23
+CAT0016,Cámaras,Subcategoría de Electrónica: Cámaras,2,false,https://cdn.ecommerce.gt/categories/cat0016.jpg,2020-03-27
+CAT0017,Wearables,Subcategoría de Electrónica: Wearables,2,true,https://cdn.ecommerce.gt/categories/cat0017.jpg,2022-04-21
+CAT0018,Gaming,Subcategoría de Electrónica: Gaming,2,true,https://cdn.ecommerce.gt/categories/cat0018.jpg,2019-01-14
+CAT0019,Accesorios PC,Subcategoría de Electrónica: Accesorios PC,2,false,https://cdn.ecommerce.gt/categories/cat0019.jpg,2022-11-30
+CAT0020,Redes,Subcategoría de Electrónica: Redes,2,true,https://cdn.ecommerce.gt/categories/cat0020.jpg,2020-11-27
+CAT0021,Impresoras,Subcategoría de Electrónica: Impresoras,2,true,https://cdn.ecommerce.gt/categories/cat0021.jpg,2019-11-15
+CAT0022,Almacenamiento,Subcategoría de Electrónica: Almacenamiento,2,true,https://cdn.ecommerce.gt/categories/cat0022.jpg,2020-11-20
+CAT0023,Ropa Hombre,Subcategoría de Moda: Ropa Hombre,2,false,https://cdn.ecommerce.gt/categories/cat0023.jpg,2019-07-09
+CAT0024,Ropa Mujer,Subcategoría de Moda: Ropa Mujer,2,true,https://cdn.ecommerce.gt/categories/cat0024.jpg,2019-07-18
+CAT0025,Ropa Niños,Subcategoría de Moda: Ropa Niños,2,true,https://cdn.ecommerce.gt/categories/cat0025.jpg,2020-12-05
+CAT0026,Calzado Hombre,Subcategoría de Moda: Calzado Hombre,2,false,https://cdn.ecommerce.gt/categories/cat0026.jpg,2019-03-30
+CAT0027,Calzado Mujer,Subcategoría de Moda: Calzado Mujer,2,true,https://cdn.ecommerce.gt/categories/cat0027.jpg,2022-01-03
+CAT0028,Bolsos,Subcategoría de Moda: Bolsos,2,true,https://cdn.ecommerce.gt/categories/cat0028.jpg,2021-02-14
+CAT0029,Relojes,Subcategoría de Moda: Relojes,2,true,https://cdn.ecommerce.gt/categories/cat0029.jpg,2022-02-04
+CAT0030,Joyería,Subcategoría de Moda: Joyería,2,true,https://cdn.ecommerce.gt/categories/cat0030.jpg,2022-07-11
+CAT0031,Gafas,Subcategoría de Moda: Gafas,2,true,https://cdn.ecommerce.gt/categories/cat0031.jpg,2022-03-28
+CAT0032,Ropa Deportiva,Subcategoría de Moda: Ropa Deportiva,2,true,https://cdn.ecommerce.gt/categories/cat0032.jpg,2022-12-13
+CAT0033,Ropa Interior,Subcategoría de Moda: Ropa Interior,2,true,https://cdn.ecommerce.gt/categories/cat0033.jpg,2019-04-04
+CAT0034,Sombreros,Subcategoría de Moda: Sombreros,2,true,https://cdn.ecommerce.gt/categories/cat0034.jpg,2020-08-15
+CAT0035,Muebles,Subcategoría de Hogar: Muebles,2,true,https://cdn.ecommerce.gt/categories/cat0035.jpg,2020-04-21
+CAT0036,Cocina,Subcategoría de Hogar: Cocina,2,true,https://cdn.ecommerce.gt/categories/cat0036.jpg,2021-02-17
+CAT0037,Baño,Subcategoría de Hogar: Baño,2,true,https://cdn.ecommerce.gt/categories/cat0037.jpg,2021-07-17
+CAT0038,Dormitorio,Subcategoría de Hogar: Dormitorio,2,true,https://cdn.ecommerce.gt/categories/cat0038.jpg,2019-11-30
+CAT0039,Jardín,Subcategoría de Hogar: Jardín,2,true,https://cdn.ecommerce.gt/categories/cat0039.jpg,2020-12-28
+CAT0040,Iluminación,Subcategoría de Hogar: Iluminación,2,true,https://cdn.ecommerce.gt/categories/cat0040.jpg,2022-10-04
+CAT0041,Decoración,Subcategoría de Hogar: Decoración,2,true,https://cdn.ecommerce.gt/categories/cat0041.jpg,2022-12-08
+CAT0042,Textiles,Subcategoría de Hogar: Textiles,2,true,https://cdn.ecommerce.gt/categories/cat0042.jpg,2022-06-01
+CAT0043,Herramientas,Subcategoría de Hogar: Herramientas,2,true,https://cdn.ecommerce.gt/categories/cat0043.jpg,2021-12-29
+CAT0044,Limpieza,Subcategoría de Hogar: Limpieza,2,false,https://cdn.ecommerce.gt/categories/cat0044.jpg,2019-12-01
+CAT0045,Electrodomésticos,Subcategoría de Hogar: Electrodomésticos,2,true,https://cdn.ecommerce.gt/categories/cat0045.jpg,2021-02-16
+CAT0046,Almacenamiento Hogar,Subcategoría de Hogar: Almacenamiento Hogar,2,true,https://cdn.ecommerce.gt/categories/cat0046.jpg,2022-08-03
+CAT0047,Fitness,Subcategoría de Deportes: Fitness,2,true,https://cdn.ecommerce.gt/categories/cat0047.jpg,2022-11-03
+CAT0048,Fútbol,Subcategoría de Deportes: Fútbol,2,true,https://cdn.ecommerce.gt/categories/cat0048.jpg,2019-04-25
+CAT0049,Natación,Subcategoría de Deportes: Natación,2,true,https://cdn.ecommerce.gt/categories/cat0049.jpg,2019-03-07
+CAT0050,Ciclismo,Subcategoría de Deportes: Ciclismo,2,true,https://cdn.ecommerce.gt/categories/cat0050.jpg,2021-04-01
+CAT0051,Tenis,Subcategoría de Deportes: Tenis,2,true,https://cdn.ecommerce.gt/categories/cat0051.jpg,2019-05-16
+CAT0052,Montañismo,Subcategoría de Deportes: Montañismo,2,true,https://cdn.ecommerce.gt/categories/cat0052.jpg,2022-03-07
+CAT0053,Yoga,Subcategoría de Deportes: Yoga,2,false,https://cdn.ecommerce.gt/categories/cat0053.jpg,2020-03-11
+CAT0054,Running,Subcategoría de Deportes: Running,2,false,https://cdn.ecommerce.gt/categories/cat0054.jpg,2021-03-21
+CAT0055,Artes Marciales,Subcategoría de Deportes: Artes Marciales,2,true,https://cdn.ecommerce.gt/categories/cat0055.jpg,2019-10-20
+CAT0056,Natación Accesorios,Subcategoría de Deportes: Natación Accesorios,2,true,https://cdn.ecommerce.gt/categories/cat0056.jpg,2019-10-13
+CAT0057,Camping,Subcategoría de Deportes: Camping,2,true,https://cdn.ecommerce.gt/categories/cat0057.jpg,2022-02-23
+CAT0058,Skateboarding,Subcategoría de Deportes: Skateboarding,2,false,https://cdn.ecommerce.gt/categories/cat0058.jpg,2022-04-12
+CAT0059,Ficción,Subcategoría de Libros: Ficción,2,false,https://cdn.ecommerce.gt/categories/cat0059.jpg,2022-04-10
+CAT0060,No Ficción,Subcategoría de Libros: No Ficción,2,true,https://cdn.ecommerce.gt/categories/cat0060.jpg,2021-01-11
+CAT0061,Ciencia,Subcategoría de Libros: Ciencia,2,false,https://cdn.ecommerce.gt/categories/cat0061.jpg,2019-10-11
+CAT0062,Historia,Subcategoría de Libros: Historia,2,true,https://cdn.ecommerce.gt/categories/cat0062.jpg,2019-07-06
+CAT0063,Tecnología,Subcategoría de Libros: Tecnología,2,true,https://cdn.ecommerce.gt/categories/cat0063.jpg,2019-08-13
+CAT0064,Autoayuda,Subcategoría de Libros: Autoayuda,2,true,https://cdn.ecommerce.gt/categories/cat0064.jpg,2022-07-09
+CAT0065,Infantil,Subcategoría de Libros: Infantil,2,false,https://cdn.ecommerce.gt/categories/cat0065.jpg,2022-10-25
+CAT0066,Comics,Subcategoría de Libros: Comics,2,true,https://cdn.ecommerce.gt/categories/cat0066.jpg,2022-05-06
+CAT0067,Cocina Libros,Subcategoría de Libros: Cocina Libros,2,false,https://cdn.ecommerce.gt/categories/cat0067.jpg,2021-02-27
+CAT0068,Negocios,Subcategoría de Libros: Negocios,2,false,https://cdn.ecommerce.gt/categories/cat0068.jpg,2022-05-05
+CAT0069,Arte Libros,Subcategoría de Libros: Arte Libros,2,true,https://cdn.ecommerce.gt/categories/cat0069.jpg,2021-12-19
+CAT0070,Viaje Libros,Subcategoría de Libros: Viaje Libros,2,true,https://cdn.ecommerce.gt/categories/cat0070.jpg,2022-02-07
+CAT0071,Skincare,Subcategoría de Belleza: Skincare,2,true,https://cdn.ecommerce.gt/categories/cat0071.jpg,2022-10-25
+CAT0072,Maquillaje,Subcategoría de Belleza: Maquillaje,2,true,https://cdn.ecommerce.gt/categories/cat0072.jpg,2022-10-28
+CAT0073,Cabello,Subcategoría de Belleza: Cabello,2,true,https://cdn.ecommerce.gt/categories/cat0073.jpg,2022-08-05
+CAT0074,Fragancias,Subcategoría de Belleza: Fragancias,2,true,https://cdn.ecommerce.gt/categories/cat0074.jpg,2019-08-17
+CAT0075,Hombre Cuidado,Subcategoría de Belleza: Hombre Cuidado,2,true,https://cdn.ecommerce.gt/categories/cat0075.jpg,2021-06-09
+CAT0076,Uñas,Subcategoría de Belleza: Uñas,2,true,https://cdn.ecommerce.gt/categories/cat0076.jpg,2021-07-18
+CAT0077,Spa,Subcategoría de Belleza: Spa,2,true,https://cdn.ecommerce.gt/categories/cat0077.jpg,2020-06-23
+CAT0078,Herramientas Belleza,Subcategoría de Belleza: Herramientas Belleza,2,true,https://cdn.ecommerce.gt/categories/cat0078.jpg,2021-11-05
+CAT0079,Nutrición Belleza,Subcategoría de Belleza: Nutrición Belleza,2,true,https://cdn.ecommerce.gt/categories/cat0079.jpg,2022-07-04
+CAT0080,Afeitado,Subcategoría de Belleza: Afeitado,2,true,https://cdn.ecommerce.gt/categories/cat0080.jpg,2022-08-01
+CAT0081,Solar,Subcategoría de Belleza: Solar,2,true,https://cdn.ecommerce.gt/categories/cat0081.jpg,2019-11-10
+CAT0082,Orgánico,Subcategoría de Belleza: Orgánico,2,true,https://cdn.ecommerce.gt/categories/cat0082.jpg,2019-11-27
+CAT0083,Educativos,Subcategoría de Juguetes: Educativos,2,true,https://cdn.ecommerce.gt/categories/cat0083.jpg,2022-05-11
+CAT0084,Acción,Subcategoría de Juguetes: Acción,2,true,https://cdn.ecommerce.gt/categories/cat0084.jpg,2021-09-27
+CAT0085,Muñecas,Subcategoría de Juguetes: Muñecas,2,true,https://cdn.ecommerce.gt/categories/cat0085.jpg,2019-08-18
+CAT0086,Construcción,Subcategoría de Juguetes: Construcción,2,true,https://cdn.ecommerce.gt/categories/cat0086.jpg,2020-09-21
+CAT0087,Vehículos Juguete,Subcategoría de Juguetes: Vehículos Juguete,2,true,https://cdn.ecommerce.gt/categories/cat0087.jpg,2019-04-29
+CAT0088,Electrónicos Juguete,Subcategoría de Juguetes: Electrónicos Juguete,2,true,https://cdn.ecommerce.gt/categories/cat0088.jpg,2022-03-07
+CAT0089,Outdoor Juguete,Subcategoría de Juguetes: Outdoor Juguete,2,false,https://cdn.ecommerce.gt/categories/cat0089.jpg,2019-06-25
+CAT0090,Arte Niños,Subcategoría de Juguetes: Arte Niños,2,true,https://cdn.ecommerce.gt/categories/cat0090.jpg,2019-05-22
+CAT0091,Puzzles,Subcategoría de Juguetes: Puzzles,2,false,https://cdn.ecommerce.gt/categories/cat0091.jpg,2019-09-20
+CAT0092,Bebés,Subcategoría de Juguetes: Bebés,2,true,https://cdn.ecommerce.gt/categories/cat0092.jpg,2022-01-30
+CAT0093,Coleccionables,Subcategoría de Juguetes: Coleccionables,2,false,https://cdn.ecommerce.gt/categories/cat0093.jpg,2020-06-26
+CAT0094,Madera,Subcategoría de Juguetes: Madera,2,true,https://cdn.ecommerce.gt/categories/cat0094.jpg,2020-03-09
+CAT0095,Snacks,Subcategoría de Alimentos: Snacks,2,true,https://cdn.ecommerce.gt/categories/cat0095.jpg,2022-12-31
+CAT0096,Bebidas,Subcategoría de Alimentos: Bebidas,2,true,https://cdn.ecommerce.gt/categories/cat0096.jpg,2021-03-28
+CAT0097,Café Té,Subcategoría de Alimentos: Café Té,2,false,https://cdn.ecommerce.gt/categories/cat0097.jpg,2021-06-16
+CAT0098,Gourmet,Subcategoría de Alimentos: Gourmet,2,true,https://cdn.ecommerce.gt/categories/cat0098.jpg,2019-09-05
+CAT0099,Orgánicos,Subcategoría de Alimentos: Orgánicos,2,true,https://cdn.ecommerce.gt/categories/cat0099.jpg,2020-04-05
+CAT0100,Dulces,Subcategoría de Alimentos: Dulces,2,true,https://cdn.ecommerce.gt/categories/cat0100.jpg,2020-11-23
+CAT0101,Conservas,Subcategoría de Alimentos: Conservas,2,true,https://cdn.ecommerce.gt/categories/cat0101.jpg,2022-04-19
+CAT0102,Cereales,Subcategoría de Alimentos: Cereales,2,true,https://cdn.ecommerce.gt/categories/cat0102.jpg,2022-04-20
+CAT0103,Lácteos,Subcategoría de Alimentos: Lácteos,2,true,https://cdn.ecommerce.gt/categories/cat0103.jpg,2019-01-15
+CAT0104,Panadería,Subcategoría de Alimentos: Panadería,2,true,https://cdn.ecommerce.gt/categories/cat0104.jpg,2022-12-20
+CAT0105,Salsas,Subcategoría de Alimentos: Salsas,2,true,https://cdn.ecommerce.gt/categories/cat0105.jpg,2020-04-13
+CAT0106,Vinos,Subcategoría de Alimentos: Vinos,2,true,https://cdn.ecommerce.gt/categories/cat0106.jpg,2019-03-06
+CAT0107,Audio Auto,Subcategoría de Automóviles: Audio Auto,2,true,https://cdn.ecommerce.gt/categories/cat0107.jpg,2019-05-26
+CAT0108,Llantas,Subcategoría de Automóviles: Llantas,2,false,https://cdn.ecommerce.gt/categories/cat0108.jpg,2020-07-24
+CAT0109,Aceites,Subcategoría de Automóviles: Aceites,2,true,https://cdn.ecommerce.gt/categories/cat0109.jpg,2020-03-14
+CAT0110,Herramientas Auto,Subcategoría de Automóviles: Herramientas Auto,2,false,https://cdn.ecommerce.gt/categories/cat0110.jpg,2022-03-15
+CAT0111,GPS,Subcategoría de Automóviles: GPS,2,false,https://cdn.ecommerce.gt/categories/cat0111.jpg,2020-05-12
+CAT0112,Limpieza Auto,Subcategoría de Automóviles: Limpieza Auto,2,true,https://cdn.ecommerce.gt/categories/cat0112.jpg,2021-04-13
+CAT0113,Seguridad Auto,Subcategoría de Automóviles: Seguridad Auto,2,true,https://cdn.ecommerce.gt/categories/cat0113.jpg,2019-07-13
+CAT0114,Iluminación Auto,Subcategoría de Automóviles: Iluminación Auto,2,false,https://cdn.ecommerce.gt/categories/cat0114.jpg,2022-09-11
+CAT0115,Accesorios Interior,Subcategoría de Automóviles: Accesorios Interior,2,false,https://cdn.ecommerce.gt/categories/cat0115.jpg,2020-12-26
+CAT0116,Exterior Auto,Subcategoría de Automóviles: Exterior Auto,2,false,https://cdn.ecommerce.gt/categories/cat0116.jpg,2021-04-21
+CAT0117,Motos,Subcategoría de Automóviles: Motos,2,true,https://cdn.ecommerce.gt/categories/cat0117.jpg,2019-04-21
+CAT0118,Bicicletas Accesorios,Subcategoría de Automóviles: Bicicletas Accesorios,2,false,https://cdn.ecommerce.gt/categories/cat0118.jpg,2019-05-05
+CAT0119,Perros,Subcategoría de Mascotas: Perros,2,true,https://cdn.ecommerce.gt/categories/cat0119.jpg,2020-11-25
+CAT0120,Gatos,Subcategoría de Mascotas: Gatos,2,true,https://cdn.ecommerce.gt/categories/cat0120.jpg,2020-05-24
+CAT0121,Aves,Subcategoría de Mascotas: Aves,2,false,https://cdn.ecommerce.gt/categories/cat0121.jpg,2020-01-25
+CAT0122,Peces,Subcategoría de Mascotas: Peces,2,false,https://cdn.ecommerce.gt/categories/cat0122.jpg,2019-10-15
+CAT0123,Reptiles,Subcategoría de Mascotas: Reptiles,2,true,https://cdn.ecommerce.gt/categories/cat0123.jpg,2020-01-11
+CAT0124,Pequeños Animales,Subcategoría de Mascotas: Pequeños Animales,2,true,https://cdn.ecommerce.gt/categories/cat0124.jpg,2021-08-05
+CAT0125,Acuarios,Subcategoría de Mascotas: Acuarios,2,false,https://cdn.ecommerce.gt/categories/cat0125.jpg,2019-06-04
+CAT0126,Alimento Perro,Subcategoría de Mascotas: Alimento Perro,2,true,https://cdn.ecommerce.gt/categories/cat0126.jpg,2022-02-01
+CAT0127,Alimento Gato,Subcategoría de Mascotas: Alimento Gato,2,true,https://cdn.ecommerce.gt/categories/cat0127.jpg,2019-04-14
+CAT0128,Juguetes Mascotas,Subcategoría de Mascotas: Juguetes Mascotas,2,true,https://cdn.ecommerce.gt/categories/cat0128.jpg,2019-07-11
+CAT0129,Salud Mascotas,Subcategoría de Mascotas: Salud Mascotas,2,false,https://cdn.ecommerce.gt/categories/cat0129.jpg,2019-12-07
+CAT0130,Camas Mascotas,Subcategoría de Mascotas: Camas Mascotas,2,false,https://cdn.ecommerce.gt/categories/cat0130.jpg,2021-09-21

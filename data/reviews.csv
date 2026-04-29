@@ -1,0 +1,751 @@
+reviewId,rating,comment,createdAt,isVerified,helpfulVotes,sentiment
+REV00001,4,"Superó mis expectativas, volveré a comprar.",2024-04-27,true,127,positive
+REV00002,3,Producto aceptable para el precio.,2022-11-29,true,46,neutral
+REV00003,5,"Excelente producto, lo recomiendo totalmente.",2022-03-11,false,111,positive
+REV00004,4,Rápida entrega y producto tal como se describe.,2024-05-07,true,1,positive
+REV00005,1,"No cumplió mis expectativas, calidad regular.",2021-09-28,true,230,negative
+REV00006,4,"Excelente producto, lo recomiendo totalmente.",2022-06-06,false,227,positive
+REV00007,4,Rápida entrega y producto tal como se describe.,2021-08-17,true,20,positive
+REV00008,4,Rápida entrega y producto tal como se describe.,2022-06-21,false,215,positive
+REV00009,5,Rápida entrega y producto tal como se describe.,2021-06-10,true,105,positive
+REV00010,4,"Excelente producto, lo recomiendo totalmente.",2025-03-21,false,92,positive
+REV00011,4,Increíble relación calidad-precio.,2025-09-25,true,247,positive
+REV00012,4,Increíble relación calidad-precio.,2023-08-01,false,32,positive
+REV00013,2,"El producto llegó con golpes, decepcionante.",2020-12-20,true,32,negative
+REV00014,5,Rápida entrega y producto tal como se describe.,2025-09-21,true,232,positive
+REV00015,5,"Funciona perfecto, estoy muy contento con la compra.",2023-10-12,false,20,positive
+REV00016,4,"Producto de primera calidad, muy satisfecho.",2022-04-24,true,216,positive
+REV00017,5,"Funciona perfecto, estoy muy contento con la compra.",2022-10-04,true,61,positive
+REV00018,4,Increíble relación calidad-precio.,2024-10-13,true,200,positive
+REV00019,5,"Superó mis expectativas, volveré a comprar.",2025-07-07,true,168,positive
+REV00020,4,"Excelente producto, lo recomiendo totalmente.",2023-08-05,true,192,positive
+REV00021,5,Increíble relación calidad-precio.,2024-04-19,true,152,positive
+REV00022,2,"El producto llegó con golpes, decepcionante.",2023-09-12,true,136,negative
+REV00023,5,"Producto de primera calidad, muy satisfecho.",2021-01-15,false,241,positive
+REV00024,3,Producto aceptable para el precio.,2020-04-06,true,51,neutral
+REV00025,4,"Excelente producto, lo recomiendo totalmente.",2023-06-28,false,106,positive
+REV00026,5,Rápida entrega y producto tal como se describe.,2024-12-31,true,165,positive
+REV00027,5,"Producto de primera calidad, muy satisfecho.",2023-06-01,false,64,positive
+REV00028,4,"Excelente producto, lo recomiendo totalmente.",2022-06-10,false,142,positive
+REV00029,5,"Excelente producto, lo recomiendo totalmente.",2023-08-28,false,139,positive
+REV00030,5,"Producto de primera calidad, muy satisfecho.",2023-12-10,true,55,positive
+REV00031,5,"Superó mis expectativas, volveré a comprar.",2023-06-25,false,97,positive
+REV00032,4,Rápida entrega y producto tal como se describe.,2024-08-30,true,177,positive
+REV00033,4,Rápida entrega y producto tal como se describe.,2022-06-16,false,125,positive
+REV00034,5,"Superó mis expectativas, volveré a comprar.",2020-11-16,true,78,positive
+REV00035,2,"No corresponde a la descripción, poca calidad.",2025-10-25,false,236,negative
+REV00036,5,Increíble relación calidad-precio.,2020-12-23,true,108,positive
+REV00037,4,"Producto de primera calidad, muy satisfecho.",2024-12-29,true,214,positive
+REV00038,4,"Producto de primera calidad, muy satisfecho.",2020-06-23,true,209,positive
+REV00039,4,"Excelente producto, lo recomiendo totalmente.",2022-08-12,true,250,positive
+REV00040,4,"Funciona perfecto, estoy muy contento con la compra.",2025-02-03,true,79,positive
+REV00041,5,"Excelente producto, lo recomiendo totalmente.",2022-10-28,true,149,positive
+REV00042,4,"Excelente producto, lo recomiendo totalmente.",2022-01-31,false,14,positive
+REV00043,5,"Muy buena calidad, llegó en perfectas condiciones.",2020-05-24,false,188,positive
+REV00044,3,"Cumple su función básica, nada extraordinario.",2021-04-09,true,50,neutral
+REV00045,5,"Muy buena calidad, llegó en perfectas condiciones.",2020-11-22,false,2,positive
+REV00046,4,"Producto de primera calidad, muy satisfecho.",2024-01-13,true,215,positive
+REV00047,5,"Superó mis expectativas, volveré a comprar.",2025-09-12,true,183,positive
+REV00048,5,Rápida entrega y producto tal como se describe.,2025-09-28,true,89,positive
+REV00049,5,Increíble relación calidad-precio.,2025-07-06,false,187,positive
+REV00050,5,"Producto de primera calidad, muy satisfecho.",2025-05-08,true,25,positive
+REV00051,4,Rápida entrega y producto tal como se describe.,2023-04-18,true,17,positive
+REV00052,5,Rápida entrega y producto tal como se describe.,2021-12-25,true,163,positive
+REV00053,5,"Funciona perfecto, estoy muy contento con la compra.",2020-03-25,false,220,positive
+REV00054,5,"Funciona perfecto, estoy muy contento con la compra.",2021-06-28,true,171,positive
+REV00055,4,"Producto de primera calidad, muy satisfecho.",2024-10-09,false,248,positive
+REV00056,5,Rápida entrega y producto tal como se describe.,2023-05-20,true,4,positive
+REV00057,1,"El producto llegó con golpes, decepcionante.",2020-09-04,false,58,negative
+REV00058,5,"Superó mis expectativas, volveré a comprar.",2021-01-19,true,69,positive
+REV00059,5,"Excelente producto, lo recomiendo totalmente.",2024-03-11,true,206,positive
+REV00060,3,"Regular, esperaba un poco más.",2023-03-02,false,95,neutral
+REV00061,4,"Excelente producto, lo recomiendo totalmente.",2024-09-06,false,18,positive
+REV00062,5,Rápida entrega y producto tal como se describe.,2021-11-05,false,151,positive
+REV00063,4,"Superó mis expectativas, volveré a comprar.",2025-11-06,true,138,positive
+REV00064,4,"Excelente producto, lo recomiendo totalmente.",2025-01-11,true,125,positive
+REV00065,4,"Excelente producto, lo recomiendo totalmente.",2023-10-05,true,161,positive
+REV00066,4,"Funciona perfecto, estoy muy contento con la compra.",2022-07-17,true,88,positive
+REV00067,5,Increíble relación calidad-precio.,2022-02-22,false,225,positive
+REV00068,4,"Funciona perfecto, estoy muy contento con la compra.",2024-01-25,true,250,positive
+REV00069,5,"Muy buena calidad, llegó en perfectas condiciones.",2025-10-30,true,147,positive
+REV00070,5,"Superó mis expectativas, volveré a comprar.",2021-12-19,true,26,positive
+REV00071,5,"Producto de primera calidad, muy satisfecho.",2024-07-14,false,64,positive
+REV00072,3,"Cumple su función básica, nada extraordinario.",2022-10-13,true,19,neutral
+REV00073,3,"Cumple su función básica, nada extraordinario.",2023-04-12,false,112,neutral
+REV00074,2,"Producto defectuoso, tuve que devolverlo.",2024-05-30,true,216,negative
+REV00075,2,Tardó demasiado en llegar y el empaque estaba dañado.,2023-04-20,false,36,negative
+REV00076,5,Increíble relación calidad-precio.,2021-02-07,true,208,positive
+REV00077,2,"El producto llegó con golpes, decepcionante.",2021-06-30,true,181,negative
+REV00078,4,"Excelente producto, lo recomiendo totalmente.",2020-03-22,false,238,positive
+REV00079,4,Rápida entrega y producto tal como se describe.,2020-11-24,true,36,positive
+REV00080,3,Producto aceptable para el precio.,2023-01-29,false,99,neutral
+REV00081,5,Rápida entrega y producto tal como se describe.,2023-07-30,true,156,positive
+REV00082,4,"Muy buena calidad, llegó en perfectas condiciones.",2023-02-05,true,123,positive
+REV00083,2,Tardó demasiado en llegar y el empaque estaba dañado.,2025-12-16,false,110,negative
+REV00084,5,"Producto de primera calidad, muy satisfecho.",2024-12-14,false,95,positive
+REV00085,5,"Producto de primera calidad, muy satisfecho.",2025-03-11,true,45,positive
+REV00086,2,"Producto defectuoso, tuve que devolverlo.",2020-12-19,true,97,negative
+REV00087,5,"Producto de primera calidad, muy satisfecho.",2025-06-27,false,2,positive
+REV00088,1,"El producto llegó con golpes, decepcionante.",2024-10-02,true,188,negative
+REV00089,3,"Regular, esperaba un poco más.",2025-09-02,true,242,neutral
+REV00090,3,Producto aceptable para el precio.,2025-07-28,false,163,neutral
+REV00091,5,"Producto de primera calidad, muy satisfecho.",2023-10-26,false,78,positive
+REV00092,5,"Excelente producto, lo recomiendo totalmente.",2024-08-25,false,165,positive
+REV00093,5,"Funciona perfecto, estoy muy contento con la compra.",2025-09-24,true,178,positive
+REV00094,3,"Cumple su función básica, nada extraordinario.",2020-02-01,true,184,neutral
+REV00095,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-07-07,false,120,positive
+REV00096,1,"El producto llegó con golpes, decepcionante.",2024-03-04,false,202,negative
+REV00097,4,"Superó mis expectativas, volveré a comprar.",2025-06-05,false,177,positive
+REV00098,5,"Superó mis expectativas, volveré a comprar.",2021-08-10,true,191,positive
+REV00099,5,"Superó mis expectativas, volveré a comprar.",2025-08-31,true,56,positive
+REV00100,2,"El producto llegó con golpes, decepcionante.",2024-02-27,true,66,negative
+REV00101,2,"El producto llegó con golpes, decepcionante.",2023-06-07,true,177,negative
+REV00102,5,Increíble relación calidad-precio.,2023-02-25,true,94,positive
+REV00103,5,Increíble relación calidad-precio.,2022-08-09,true,73,positive
+REV00104,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-09-24,true,37,positive
+REV00105,5,"Superó mis expectativas, volveré a comprar.",2024-10-21,true,51,positive
+REV00106,5,"Muy buena calidad, llegó en perfectas condiciones.",2020-08-31,true,246,positive
+REV00107,2,"No cumplió mis expectativas, calidad regular.",2023-07-18,false,197,negative
+REV00108,5,Rápida entrega y producto tal como se describe.,2023-01-22,true,161,positive
+REV00109,4,Rápida entrega y producto tal como se describe.,2024-05-12,false,122,positive
+REV00110,5,Increíble relación calidad-precio.,2022-04-11,true,129,positive
+REV00111,3,"Cumple su función básica, nada extraordinario.",2024-10-25,false,131,neutral
+REV00112,3,Está bien para el uso cotidiano.,2025-12-08,true,88,neutral
+REV00113,4,"Producto de primera calidad, muy satisfecho.",2024-11-11,false,26,positive
+REV00114,5,"Producto de primera calidad, muy satisfecho.",2021-08-04,true,85,positive
+REV00115,1,"Producto defectuoso, tuve que devolverlo.",2022-08-23,true,139,negative
+REV00116,5,"Muy buena calidad, llegó en perfectas condiciones.",2021-06-29,true,148,positive
+REV00117,5,"Excelente producto, lo recomiendo totalmente.",2022-11-13,false,103,positive
+REV00118,1,"El producto llegó con golpes, decepcionante.",2021-12-23,false,232,negative
+REV00119,5,Rápida entrega y producto tal como se describe.,2020-08-23,false,101,positive
+REV00120,4,Increíble relación calidad-precio.,2024-11-12,true,136,positive
+REV00121,2,"No cumplió mis expectativas, calidad regular.",2024-12-08,true,189,negative
+REV00122,5,"Funciona perfecto, estoy muy contento con la compra.",2024-12-20,false,182,positive
+REV00123,3,Está bien para el uso cotidiano.,2020-10-03,false,11,neutral
+REV00124,4,Rápida entrega y producto tal como se describe.,2024-10-28,false,243,positive
+REV00125,5,Rápida entrega y producto tal como se describe.,2020-05-15,true,55,positive
+REV00126,5,"Superó mis expectativas, volveré a comprar.",2024-10-04,true,249,positive
+REV00127,3,Está bien para el uso cotidiano.,2022-08-22,true,38,neutral
+REV00128,3,Está bien para el uso cotidiano.,2024-05-14,true,27,neutral
+REV00129,4,"Superó mis expectativas, volveré a comprar.",2024-08-01,true,20,positive
+REV00130,3,"Regular, esperaba un poco más.",2022-09-02,true,248,neutral
+REV00131,4,"Superó mis expectativas, volveré a comprar.",2022-04-15,false,140,positive
+REV00132,4,"Funciona perfecto, estoy muy contento con la compra.",2025-11-13,true,8,positive
+REV00133,1,"El producto llegó con golpes, decepcionante.",2023-05-09,true,130,negative
+REV00134,5,Increíble relación calidad-precio.,2020-02-03,true,148,positive
+REV00135,5,Rápida entrega y producto tal como se describe.,2024-11-11,false,238,positive
+REV00136,5,"Muy buena calidad, llegó en perfectas condiciones.",2023-07-06,false,4,positive
+REV00137,5,"Excelente producto, lo recomiendo totalmente.",2020-04-27,true,128,positive
+REV00138,5,Increíble relación calidad-precio.,2025-06-20,true,69,positive
+REV00139,3,"Regular, esperaba un poco más.",2024-04-12,true,158,neutral
+REV00140,4,"Excelente producto, lo recomiendo totalmente.",2025-06-19,true,184,positive
+REV00141,5,Rápida entrega y producto tal como se describe.,2025-02-12,true,38,positive
+REV00142,3,Está bien para el uso cotidiano.,2020-12-12,true,239,neutral
+REV00143,3,Producto aceptable para el precio.,2025-07-27,true,34,neutral
+REV00144,4,"Superó mis expectativas, volveré a comprar.",2024-09-14,false,120,positive
+REV00145,5,Increíble relación calidad-precio.,2022-09-23,false,177,positive
+REV00146,1,"No corresponde a la descripción, poca calidad.",2024-01-07,true,222,negative
+REV00147,4,Increíble relación calidad-precio.,2020-02-10,true,238,positive
+REV00148,4,"Funciona perfecto, estoy muy contento con la compra.",2020-06-02,true,87,positive
+REV00149,5,"Excelente producto, lo recomiendo totalmente.",2020-11-27,true,93,positive
+REV00150,4,"Superó mis expectativas, volveré a comprar.",2021-10-04,true,221,positive
+REV00151,3,"Regular, esperaba un poco más.",2023-10-19,true,54,neutral
+REV00152,3,Producto aceptable para el precio.,2023-06-20,true,196,neutral
+REV00153,2,"Producto defectuoso, tuve que devolverlo.",2024-03-10,false,21,negative
+REV00154,5,"Producto de primera calidad, muy satisfecho.",2022-03-26,true,240,positive
+REV00155,2,"Producto defectuoso, tuve que devolverlo.",2024-11-12,false,83,negative
+REV00156,5,"Excelente producto, lo recomiendo totalmente.",2023-12-01,false,168,positive
+REV00157,5,"Producto de primera calidad, muy satisfecho.",2020-09-23,true,214,positive
+REV00158,4,"Funciona perfecto, estoy muy contento con la compra.",2021-04-03,false,201,positive
+REV00159,2,"El producto llegó con golpes, decepcionante.",2023-04-08,true,180,negative
+REV00160,5,Increíble relación calidad-precio.,2025-01-31,true,6,positive
+REV00161,5,Rápida entrega y producto tal como se describe.,2025-12-12,true,17,positive
+REV00162,3,"Cumple su función básica, nada extraordinario.",2025-10-28,false,154,neutral
+REV00163,5,Rápida entrega y producto tal como se describe.,2025-08-31,false,246,positive
+REV00164,5,"Excelente producto, lo recomiendo totalmente.",2023-03-21,true,92,positive
+REV00165,3,"Regular, esperaba un poco más.",2024-04-19,true,143,neutral
+REV00166,5,Increíble relación calidad-precio.,2021-01-28,true,167,positive
+REV00167,4,"Superó mis expectativas, volveré a comprar.",2023-12-20,false,135,positive
+REV00168,4,"Superó mis expectativas, volveré a comprar.",2020-10-05,false,249,positive
+REV00169,3,Producto aceptable para el precio.,2024-10-18,true,78,neutral
+REV00170,4,Rápida entrega y producto tal como se describe.,2020-07-29,false,243,positive
+REV00171,4,Rápida entrega y producto tal como se describe.,2025-12-08,true,9,positive
+REV00172,4,"Producto de primera calidad, muy satisfecho.",2020-04-22,false,12,positive
+REV00173,5,"Producto de primera calidad, muy satisfecho.",2023-06-18,true,160,positive
+REV00174,4,"Excelente producto, lo recomiendo totalmente.",2021-02-02,true,215,positive
+REV00175,5,"Funciona perfecto, estoy muy contento con la compra.",2022-06-24,true,13,positive
+REV00176,4,Increíble relación calidad-precio.,2024-11-07,true,216,positive
+REV00177,5,"Superó mis expectativas, volveré a comprar.",2020-03-26,false,218,positive
+REV00178,4,"Superó mis expectativas, volveré a comprar.",2024-10-19,true,124,positive
+REV00179,4,Rápida entrega y producto tal como se describe.,2022-10-15,false,24,positive
+REV00180,5,"Superó mis expectativas, volveré a comprar.",2022-07-13,true,38,positive
+REV00181,5,"Funciona perfecto, estoy muy contento con la compra.",2022-02-20,true,222,positive
+REV00182,3,Está bien para el uso cotidiano.,2021-05-25,true,35,neutral
+REV00183,4,"Funciona perfecto, estoy muy contento con la compra.",2020-10-18,true,47,positive
+REV00184,3,"Cumple su función básica, nada extraordinario.",2021-02-16,true,208,neutral
+REV00185,5,"Excelente producto, lo recomiendo totalmente.",2024-09-02,false,34,positive
+REV00186,3,Está bien para el uso cotidiano.,2021-03-22,true,242,neutral
+REV00187,5,"Muy buena calidad, llegó en perfectas condiciones.",2022-09-23,true,67,positive
+REV00188,4,"Muy buena calidad, llegó en perfectas condiciones.",2025-12-27,true,53,positive
+REV00189,4,"Muy buena calidad, llegó en perfectas condiciones.",2025-10-10,true,67,positive
+REV00190,5,"Funciona perfecto, estoy muy contento con la compra.",2023-08-03,true,246,positive
+REV00191,5,Rápida entrega y producto tal como se describe.,2025-12-16,true,191,positive
+REV00192,5,"Superó mis expectativas, volveré a comprar.",2020-05-08,true,183,positive
+REV00193,4,Rápida entrega y producto tal como se describe.,2023-12-03,false,192,positive
+REV00194,3,Producto aceptable para el precio.,2024-03-05,true,233,neutral
+REV00195,2,"No corresponde a la descripción, poca calidad.",2023-09-26,true,138,negative
+REV00196,2,"No cumplió mis expectativas, calidad regular.",2023-01-26,false,237,negative
+REV00197,5,"Excelente producto, lo recomiendo totalmente.",2025-10-29,true,88,positive
+REV00198,5,"Funciona perfecto, estoy muy contento con la compra.",2023-04-23,true,109,positive
+REV00199,4,Rápida entrega y producto tal como se describe.,2023-10-29,true,28,positive
+REV00200,4,"Excelente producto, lo recomiendo totalmente.",2024-01-28,true,215,positive
+REV00201,3,Está bien para el uso cotidiano.,2024-01-22,true,219,neutral
+REV00202,5,Increíble relación calidad-precio.,2024-06-22,true,127,positive
+REV00203,5,"Producto de primera calidad, muy satisfecho.",2024-01-16,false,158,positive
+REV00204,5,Rápida entrega y producto tal como se describe.,2021-11-21,false,58,positive
+REV00205,3,"Cumple su función básica, nada extraordinario.",2021-02-22,true,46,neutral
+REV00206,3,Está bien para el uso cotidiano.,2023-06-22,false,165,neutral
+REV00207,2,Tardó demasiado en llegar y el empaque estaba dañado.,2024-04-25,true,140,negative
+REV00208,4,"Producto de primera calidad, muy satisfecho.",2023-10-04,false,240,positive
+REV00209,2,"No corresponde a la descripción, poca calidad.",2020-12-21,false,92,negative
+REV00210,2,"El producto llegó con golpes, decepcionante.",2022-03-17,true,110,negative
+REV00211,2,"No cumplió mis expectativas, calidad regular.",2021-11-02,true,129,negative
+REV00212,4,"Muy buena calidad, llegó en perfectas condiciones.",2025-02-11,false,201,positive
+REV00213,3,"Cumple su función básica, nada extraordinario.",2021-03-27,true,195,neutral
+REV00214,4,Rápida entrega y producto tal como se describe.,2021-10-19,true,88,positive
+REV00215,4,"Superó mis expectativas, volveré a comprar.",2023-01-24,false,50,positive
+REV00216,2,"No corresponde a la descripción, poca calidad.",2025-07-22,true,3,negative
+REV00217,4,"Superó mis expectativas, volveré a comprar.",2020-04-23,true,49,positive
+REV00218,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-09-15,true,190,positive
+REV00219,4,"Producto de primera calidad, muy satisfecho.",2025-06-09,false,146,positive
+REV00220,5,"Excelente producto, lo recomiendo totalmente.",2025-09-06,true,189,positive
+REV00221,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-12-19,false,9,positive
+REV00222,5,"Superó mis expectativas, volveré a comprar.",2020-11-15,false,229,positive
+REV00223,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-02-20,true,131,positive
+REV00224,5,"Muy buena calidad, llegó en perfectas condiciones.",2022-10-25,true,17,positive
+REV00225,5,"Funciona perfecto, estoy muy contento con la compra.",2025-01-23,true,228,positive
+REV00226,5,Increíble relación calidad-precio.,2021-04-25,true,78,positive
+REV00227,4,"Muy buena calidad, llegó en perfectas condiciones.",2023-12-02,true,5,positive
+REV00228,2,"No corresponde a la descripción, poca calidad.",2021-01-26,true,111,negative
+REV00229,5,"Excelente producto, lo recomiendo totalmente.",2023-05-08,true,89,positive
+REV00230,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-10-08,false,69,positive
+REV00231,1,"Producto defectuoso, tuve que devolverlo.",2022-12-30,true,161,negative
+REV00232,4,"Excelente producto, lo recomiendo totalmente.",2020-01-24,true,28,positive
+REV00233,4,"Producto de primera calidad, muy satisfecho.",2023-05-10,true,26,positive
+REV00234,4,"Superó mis expectativas, volveré a comprar.",2024-01-11,true,136,positive
+REV00235,5,Rápida entrega y producto tal como se describe.,2024-04-20,false,9,positive
+REV00236,5,"Producto de primera calidad, muy satisfecho.",2024-06-02,true,185,positive
+REV00237,2,"Producto defectuoso, tuve que devolverlo.",2022-11-19,true,229,negative
+REV00238,4,"Excelente producto, lo recomiendo totalmente.",2023-06-27,false,35,positive
+REV00239,5,Increíble relación calidad-precio.,2020-04-05,false,154,positive
+REV00240,1,"No cumplió mis expectativas, calidad regular.",2024-04-26,true,64,negative
+REV00241,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-01-29,true,171,positive
+REV00242,1,"No corresponde a la descripción, poca calidad.",2021-05-24,false,156,negative
+REV00243,5,Rápida entrega y producto tal como se describe.,2025-05-17,true,54,positive
+REV00244,2,"El producto llegó con golpes, decepcionante.",2024-03-26,true,182,negative
+REV00245,5,"Funciona perfecto, estoy muy contento con la compra.",2021-11-12,true,200,positive
+REV00246,4,"Funciona perfecto, estoy muy contento con la compra.",2023-08-20,true,67,positive
+REV00247,5,"Muy buena calidad, llegó en perfectas condiciones.",2020-07-02,true,149,positive
+REV00248,1,Tardó demasiado en llegar y el empaque estaba dañado.,2022-05-13,true,215,negative
+REV00249,3,Está bien para el uso cotidiano.,2022-12-01,false,52,neutral
+REV00250,2,"No corresponde a la descripción, poca calidad.",2025-04-01,true,196,negative
+REV00251,4,"Superó mis expectativas, volveré a comprar.",2023-11-21,false,150,positive
+REV00252,4,"Muy buena calidad, llegó en perfectas condiciones.",2024-04-04,true,183,positive
+REV00253,1,"Producto defectuoso, tuve que devolverlo.",2025-02-20,true,119,negative
+REV00254,3,Producto aceptable para el precio.,2021-01-02,true,167,neutral
+REV00255,5,"Excelente producto, lo recomiendo totalmente.",2021-01-08,true,155,positive
+REV00256,5,"Excelente producto, lo recomiendo totalmente.",2024-11-13,true,107,positive
+REV00257,4,"Excelente producto, lo recomiendo totalmente.",2024-01-17,true,226,positive
+REV00258,5,"Producto de primera calidad, muy satisfecho.",2024-08-17,true,138,positive
+REV00259,5,Rápida entrega y producto tal como se describe.,2021-11-16,true,133,positive
+REV00260,3,"Regular, esperaba un poco más.",2022-02-07,false,165,neutral
+REV00261,5,Rápida entrega y producto tal como se describe.,2021-11-15,true,83,positive
+REV00262,2,Tardó demasiado en llegar y el empaque estaba dañado.,2023-08-12,true,152,negative
+REV00263,3,Está bien para el uso cotidiano.,2024-06-18,true,80,neutral
+REV00264,2,"Producto defectuoso, tuve que devolverlo.",2023-09-26,true,51,negative
+REV00265,4,"Producto de primera calidad, muy satisfecho.",2024-09-30,true,197,positive
+REV00266,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-11-16,true,32,positive
+REV00267,5,"Muy buena calidad, llegó en perfectas condiciones.",2025-10-13,true,91,positive
+REV00268,5,Increíble relación calidad-precio.,2022-01-01,true,77,positive
+REV00269,4,Rápida entrega y producto tal como se describe.,2023-03-27,false,198,positive
+REV00270,5,"Funciona perfecto, estoy muy contento con la compra.",2025-09-05,false,182,positive
+REV00271,5,Rápida entrega y producto tal como se describe.,2022-03-31,false,177,positive
+REV00272,2,"El producto llegó con golpes, decepcionante.",2022-05-31,true,159,negative
+REV00273,5,"Superó mis expectativas, volveré a comprar.",2023-10-23,true,246,positive
+REV00274,2,"No cumplió mis expectativas, calidad regular.",2023-03-19,true,107,negative
+REV00275,5,"Excelente producto, lo recomiendo totalmente.",2021-09-13,false,65,positive
+REV00276,4,"Superó mis expectativas, volveré a comprar.",2024-08-27,true,4,positive
+REV00277,4,Increíble relación calidad-precio.,2022-05-23,true,41,positive
+REV00278,3,Producto aceptable para el precio.,2022-05-08,false,86,neutral
+REV00279,5,"Excelente producto, lo recomiendo totalmente.",2024-09-06,false,131,positive
+REV00280,3,"Cumple su función básica, nada extraordinario.",2023-12-25,true,25,neutral
+REV00281,3,"Cumple su función básica, nada extraordinario.",2022-08-02,false,34,neutral
+REV00282,4,Increíble relación calidad-precio.,2023-04-23,true,81,positive
+REV00283,3,Está bien para el uso cotidiano.,2020-05-28,true,82,neutral
+REV00284,2,"Producto defectuoso, tuve que devolverlo.",2024-12-09,true,140,negative
+REV00285,4,"Excelente producto, lo recomiendo totalmente.",2021-05-25,false,90,positive
+REV00286,5,"Excelente producto, lo recomiendo totalmente.",2024-09-27,false,76,positive
+REV00287,3,"Cumple su función básica, nada extraordinario.",2024-05-29,true,86,neutral
+REV00288,4,"Superó mis expectativas, volveré a comprar.",2020-06-15,true,49,positive
+REV00289,5,"Funciona perfecto, estoy muy contento con la compra.",2022-02-10,true,8,positive
+REV00290,5,"Funciona perfecto, estoy muy contento con la compra.",2020-12-05,false,116,positive
+REV00291,3,"Cumple su función básica, nada extraordinario.",2021-02-14,true,75,neutral
+REV00292,4,"Muy buena calidad, llegó en perfectas condiciones.",2025-04-06,true,163,positive
+REV00293,5,Increíble relación calidad-precio.,2022-01-16,true,84,positive
+REV00294,4,"Excelente producto, lo recomiendo totalmente.",2022-08-11,true,159,positive
+REV00295,5,Rápida entrega y producto tal como se describe.,2025-09-15,false,250,positive
+REV00296,2,"No corresponde a la descripción, poca calidad.",2024-11-23,true,240,negative
+REV00297,4,"Producto de primera calidad, muy satisfecho.",2022-06-09,false,134,positive
+REV00298,5,Rápida entrega y producto tal como se describe.,2023-04-04,false,248,positive
+REV00299,5,Increíble relación calidad-precio.,2024-05-11,true,44,positive
+REV00300,3,Producto aceptable para el precio.,2020-02-05,true,36,neutral
+REV00301,4,"Superó mis expectativas, volveré a comprar.",2025-07-18,true,133,positive
+REV00302,5,"Muy buena calidad, llegó en perfectas condiciones.",2023-09-26,true,51,positive
+REV00303,3,Está bien para el uso cotidiano.,2025-08-29,false,154,neutral
+REV00304,4,"Producto de primera calidad, muy satisfecho.",2025-12-23,true,208,positive
+REV00305,4,Increíble relación calidad-precio.,2020-10-12,true,98,positive
+REV00306,3,Producto aceptable para el precio.,2024-07-17,true,220,neutral
+REV00307,5,"Excelente producto, lo recomiendo totalmente.",2022-11-02,true,52,positive
+REV00308,5,"Producto de primera calidad, muy satisfecho.",2023-04-03,false,51,positive
+REV00309,2,"No corresponde a la descripción, poca calidad.",2025-07-21,true,169,negative
+REV00310,1,"El producto llegó con golpes, decepcionante.",2021-08-12,true,84,negative
+REV00311,4,"Excelente producto, lo recomiendo totalmente.",2023-09-16,false,98,positive
+REV00312,5,Rápida entrega y producto tal como se describe.,2025-11-05,true,52,positive
+REV00313,3,"Cumple su función básica, nada extraordinario.",2022-12-08,false,70,neutral
+REV00314,5,"Muy buena calidad, llegó en perfectas condiciones.",2023-11-16,false,222,positive
+REV00315,5,Rápida entrega y producto tal como se describe.,2024-10-03,true,164,positive
+REV00316,5,"Excelente producto, lo recomiendo totalmente.",2021-03-16,false,11,positive
+REV00317,5,"Excelente producto, lo recomiendo totalmente.",2021-04-17,true,31,positive
+REV00318,5,"Superó mis expectativas, volveré a comprar.",2020-01-09,true,201,positive
+REV00319,2,"No corresponde a la descripción, poca calidad.",2020-11-20,false,61,negative
+REV00320,5,"Producto de primera calidad, muy satisfecho.",2021-10-23,false,176,positive
+REV00321,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-10-22,true,43,positive
+REV00322,5,"Superó mis expectativas, volveré a comprar.",2023-08-04,false,68,positive
+REV00323,5,Increíble relación calidad-precio.,2023-03-14,true,54,positive
+REV00324,5,Increíble relación calidad-precio.,2023-03-30,true,64,positive
+REV00325,1,"No cumplió mis expectativas, calidad regular.",2023-02-06,true,94,negative
+REV00326,5,Rápida entrega y producto tal como se describe.,2024-06-27,false,166,positive
+REV00327,4,Increíble relación calidad-precio.,2024-11-06,false,219,positive
+REV00328,3,Producto aceptable para el precio.,2021-02-22,true,39,neutral
+REV00329,4,"Funciona perfecto, estoy muy contento con la compra.",2021-05-18,true,226,positive
+REV00330,3,Producto aceptable para el precio.,2020-01-07,true,2,neutral
+REV00331,5,"Funciona perfecto, estoy muy contento con la compra.",2020-03-03,false,111,positive
+REV00332,5,"Superó mis expectativas, volveré a comprar.",2023-07-27,false,19,positive
+REV00333,2,"No corresponde a la descripción, poca calidad.",2022-08-23,true,112,negative
+REV00334,2,"No corresponde a la descripción, poca calidad.",2025-08-05,false,121,negative
+REV00335,1,Tardó demasiado en llegar y el empaque estaba dañado.,2022-08-23,true,195,negative
+REV00336,4,"Superó mis expectativas, volveré a comprar.",2022-01-07,true,50,positive
+REV00337,4,"Producto de primera calidad, muy satisfecho.",2021-04-15,true,58,positive
+REV00338,3,Producto aceptable para el precio.,2022-02-02,true,243,neutral
+REV00339,4,"Funciona perfecto, estoy muy contento con la compra.",2024-12-27,true,234,positive
+REV00340,5,"Muy buena calidad, llegó en perfectas condiciones.",2021-02-15,true,23,positive
+REV00341,5,Rápida entrega y producto tal como se describe.,2023-04-05,false,192,positive
+REV00342,5,"Superó mis expectativas, volveré a comprar.",2024-08-15,false,110,positive
+REV00343,3,"Regular, esperaba un poco más.",2020-03-13,false,225,neutral
+REV00344,5,"Excelente producto, lo recomiendo totalmente.",2023-06-28,false,145,positive
+REV00345,2,"No cumplió mis expectativas, calidad regular.",2023-11-04,true,219,negative
+REV00346,5,"Producto de primera calidad, muy satisfecho.",2020-12-26,true,102,positive
+REV00347,4,Increíble relación calidad-precio.,2020-12-07,false,237,positive
+REV00348,4,"Muy buena calidad, llegó en perfectas condiciones.",2021-07-09,true,35,positive
+REV00349,5,Increíble relación calidad-precio.,2025-09-26,false,82,positive
+REV00350,5,"Funciona perfecto, estoy muy contento con la compra.",2025-01-04,false,145,positive
+REV00351,3,"Regular, esperaba un poco más.",2023-12-26,true,116,neutral
+REV00352,4,"Muy buena calidad, llegó en perfectas condiciones.",2023-11-20,true,30,positive
+REV00353,5,"Producto de primera calidad, muy satisfecho.",2024-05-06,true,1,positive
+REV00354,5,"Superó mis expectativas, volveré a comprar.",2022-03-14,false,241,positive
+REV00355,5,Increíble relación calidad-precio.,2023-02-24,true,39,positive
+REV00356,4,"Producto de primera calidad, muy satisfecho.",2020-02-04,true,227,positive
+REV00357,4,"Excelente producto, lo recomiendo totalmente.",2021-08-03,true,162,positive
+REV00358,1,"El producto llegó con golpes, decepcionante.",2021-04-16,true,26,negative
+REV00359,5,Increíble relación calidad-precio.,2024-04-07,false,160,positive
+REV00360,4,"Funciona perfecto, estoy muy contento con la compra.",2021-11-15,true,238,positive
+REV00361,3,Producto aceptable para el precio.,2022-12-07,false,80,neutral
+REV00362,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-09-08,false,165,positive
+REV00363,5,"Producto de primera calidad, muy satisfecho.",2025-05-15,false,78,positive
+REV00364,4,Increíble relación calidad-precio.,2025-10-05,true,181,positive
+REV00365,3,Producto aceptable para el precio.,2022-04-24,true,33,neutral
+REV00366,4,"Funciona perfecto, estoy muy contento con la compra.",2021-07-06,true,212,positive
+REV00367,4,"Muy buena calidad, llegó en perfectas condiciones.",2025-06-05,true,154,positive
+REV00368,4,"Excelente producto, lo recomiendo totalmente.",2023-03-05,false,24,positive
+REV00369,5,"Superó mis expectativas, volveré a comprar.",2025-02-25,true,108,positive
+REV00370,5,"Producto de primera calidad, muy satisfecho.",2023-03-05,false,242,positive
+REV00371,4,Increíble relación calidad-precio.,2020-04-29,true,131,positive
+REV00372,5,"Funciona perfecto, estoy muy contento con la compra.",2025-02-20,false,80,positive
+REV00373,5,"Excelente producto, lo recomiendo totalmente.",2020-02-14,false,233,positive
+REV00374,4,"Excelente producto, lo recomiendo totalmente.",2021-11-26,false,225,positive
+REV00375,3,"Regular, esperaba un poco más.",2020-07-07,false,129,neutral
+REV00376,4,"Excelente producto, lo recomiendo totalmente.",2020-03-02,true,14,positive
+REV00377,5,"Funciona perfecto, estoy muy contento con la compra.",2025-05-30,false,214,positive
+REV00378,5,"Funciona perfecto, estoy muy contento con la compra.",2022-01-23,true,35,positive
+REV00379,4,"Excelente producto, lo recomiendo totalmente.",2022-08-17,false,160,positive
+REV00380,5,"Superó mis expectativas, volveré a comprar.",2023-09-15,false,223,positive
+REV00381,5,Increíble relación calidad-precio.,2021-09-23,true,118,positive
+REV00382,3,"Cumple su función básica, nada extraordinario.",2022-09-20,true,188,neutral
+REV00383,4,"Muy buena calidad, llegó en perfectas condiciones.",2024-01-11,true,27,positive
+REV00384,5,"Muy buena calidad, llegó en perfectas condiciones.",2025-07-29,false,120,positive
+REV00385,5,"Muy buena calidad, llegó en perfectas condiciones.",2025-02-17,false,40,positive
+REV00386,4,"Producto de primera calidad, muy satisfecho.",2025-12-25,true,62,positive
+REV00387,4,Increíble relación calidad-precio.,2023-04-15,true,33,positive
+REV00388,5,"Producto de primera calidad, muy satisfecho.",2021-03-02,true,65,positive
+REV00389,5,"Funciona perfecto, estoy muy contento con la compra.",2023-10-19,true,69,positive
+REV00390,3,Está bien para el uso cotidiano.,2024-04-14,false,16,neutral
+REV00391,4,Increíble relación calidad-precio.,2023-05-08,false,157,positive
+REV00392,5,Rápida entrega y producto tal como se describe.,2024-12-03,true,12,positive
+REV00393,3,Producto aceptable para el precio.,2020-02-11,true,132,neutral
+REV00394,3,"Cumple su función básica, nada extraordinario.",2023-04-01,true,148,neutral
+REV00395,5,"Excelente producto, lo recomiendo totalmente.",2024-11-29,false,105,positive
+REV00396,3,"Cumple su función básica, nada extraordinario.",2023-10-14,true,116,neutral
+REV00397,5,"Superó mis expectativas, volveré a comprar.",2020-08-04,true,72,positive
+REV00398,3,"Cumple su función básica, nada extraordinario.",2021-11-11,false,142,neutral
+REV00399,5,"Excelente producto, lo recomiendo totalmente.",2025-10-31,true,249,positive
+REV00400,5,"Superó mis expectativas, volveré a comprar.",2020-12-20,false,96,positive
+REV00401,5,Increíble relación calidad-precio.,2023-01-23,true,133,positive
+REV00402,5,"Funciona perfecto, estoy muy contento con la compra.",2024-10-18,true,33,positive
+REV00403,3,Producto aceptable para el precio.,2020-02-27,false,81,neutral
+REV00404,4,Increíble relación calidad-precio.,2020-06-03,true,121,positive
+REV00405,4,"Muy buena calidad, llegó en perfectas condiciones.",2023-10-02,false,68,positive
+REV00406,2,"No corresponde a la descripción, poca calidad.",2025-12-27,true,134,negative
+REV00407,4,"Funciona perfecto, estoy muy contento con la compra.",2023-07-13,true,132,positive
+REV00408,2,"No cumplió mis expectativas, calidad regular.",2023-02-12,false,111,negative
+REV00409,4,Rápida entrega y producto tal como se describe.,2021-03-11,true,43,positive
+REV00410,5,Rápida entrega y producto tal como se describe.,2020-08-29,true,213,positive
+REV00411,5,"Excelente producto, lo recomiendo totalmente.",2023-10-28,false,30,positive
+REV00412,5,Rápida entrega y producto tal como se describe.,2020-11-28,true,211,positive
+REV00413,5,"Excelente producto, lo recomiendo totalmente.",2020-07-05,true,48,positive
+REV00414,5,"Superó mis expectativas, volveré a comprar.",2024-06-14,false,41,positive
+REV00415,4,"Excelente producto, lo recomiendo totalmente.",2020-07-16,false,29,positive
+REV00416,5,Increíble relación calidad-precio.,2024-10-22,true,207,positive
+REV00417,2,Tardó demasiado en llegar y el empaque estaba dañado.,2020-07-19,true,115,negative
+REV00418,2,"Producto defectuoso, tuve que devolverlo.",2025-03-12,false,229,negative
+REV00419,5,Rápida entrega y producto tal como se describe.,2025-09-30,false,202,positive
+REV00420,4,"Excelente producto, lo recomiendo totalmente.",2022-03-25,false,58,positive
+REV00421,4,Increíble relación calidad-precio.,2023-11-26,true,3,positive
+REV00422,5,"Funciona perfecto, estoy muy contento con la compra.",2025-04-26,true,0,positive
+REV00423,5,Rápida entrega y producto tal como se describe.,2025-10-19,true,241,positive
+REV00424,2,"No cumplió mis expectativas, calidad regular.",2023-05-05,false,44,negative
+REV00425,4,"Funciona perfecto, estoy muy contento con la compra.",2022-08-16,true,70,positive
+REV00426,5,"Superó mis expectativas, volveré a comprar.",2025-03-17,false,160,positive
+REV00427,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-08-17,true,76,positive
+REV00428,4,"Funciona perfecto, estoy muy contento con la compra.",2021-01-09,false,115,positive
+REV00429,4,Increíble relación calidad-precio.,2022-07-15,true,70,positive
+REV00430,4,"Excelente producto, lo recomiendo totalmente.",2024-01-31,true,170,positive
+REV00431,2,"No cumplió mis expectativas, calidad regular.",2024-12-20,true,219,negative
+REV00432,4,"Producto de primera calidad, muy satisfecho.",2021-03-11,true,175,positive
+REV00433,5,Rápida entrega y producto tal como se describe.,2023-06-27,false,137,positive
+REV00434,5,"Muy buena calidad, llegó en perfectas condiciones.",2025-11-08,true,32,positive
+REV00435,4,"Funciona perfecto, estoy muy contento con la compra.",2025-09-27,true,136,positive
+REV00436,4,"Producto de primera calidad, muy satisfecho.",2022-07-16,true,65,positive
+REV00437,5,"Excelente producto, lo recomiendo totalmente.",2024-12-06,true,217,positive
+REV00438,5,"Producto de primera calidad, muy satisfecho.",2020-12-05,true,199,positive
+REV00439,4,"Funciona perfecto, estoy muy contento con la compra.",2024-07-11,true,6,positive
+REV00440,5,Rápida entrega y producto tal como se describe.,2020-02-01,false,247,positive
+REV00441,3,"Regular, esperaba un poco más.",2021-10-07,true,17,neutral
+REV00442,5,"Excelente producto, lo recomiendo totalmente.",2020-08-16,false,205,positive
+REV00443,4,"Funciona perfecto, estoy muy contento con la compra.",2022-09-21,true,34,positive
+REV00444,2,"Producto defectuoso, tuve que devolverlo.",2022-06-01,true,131,negative
+REV00445,5,Increíble relación calidad-precio.,2020-07-27,true,123,positive
+REV00446,1,"No corresponde a la descripción, poca calidad.",2020-12-27,true,212,negative
+REV00447,4,"Producto de primera calidad, muy satisfecho.",2023-02-13,true,174,positive
+REV00448,4,"Producto de primera calidad, muy satisfecho.",2025-02-17,true,85,positive
+REV00449,4,"Funciona perfecto, estoy muy contento con la compra.",2021-05-01,true,9,positive
+REV00450,5,"Excelente producto, lo recomiendo totalmente.",2020-03-13,false,86,positive
+REV00451,5,"Funciona perfecto, estoy muy contento con la compra.",2024-02-13,false,108,positive
+REV00452,4,Rápida entrega y producto tal como se describe.,2022-01-17,true,184,positive
+REV00453,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-09-20,true,89,positive
+REV00454,1,"El producto llegó con golpes, decepcionante.",2025-10-03,false,66,negative
+REV00455,4,"Funciona perfecto, estoy muy contento con la compra.",2020-09-25,false,110,positive
+REV00456,5,Increíble relación calidad-precio.,2025-10-16,false,244,positive
+REV00457,3,Producto aceptable para el precio.,2023-02-21,true,41,neutral
+REV00458,5,"Funciona perfecto, estoy muy contento con la compra.",2024-03-10,true,33,positive
+REV00459,5,"Excelente producto, lo recomiendo totalmente.",2020-01-14,true,182,positive
+REV00460,3,"Cumple su función básica, nada extraordinario.",2020-02-26,true,1,neutral
+REV00461,1,Tardó demasiado en llegar y el empaque estaba dañado.,2023-06-20,false,235,negative
+REV00462,5,Rápida entrega y producto tal como se describe.,2021-03-10,true,10,positive
+REV00463,5,"Producto de primera calidad, muy satisfecho.",2021-08-29,true,115,positive
+REV00464,4,"Excelente producto, lo recomiendo totalmente.",2020-07-09,false,83,positive
+REV00465,5,"Muy buena calidad, llegó en perfectas condiciones.",2020-01-29,true,100,positive
+REV00466,3,Producto aceptable para el precio.,2021-04-01,false,195,neutral
+REV00467,3,Está bien para el uso cotidiano.,2022-02-07,true,34,neutral
+REV00468,4,"Producto de primera calidad, muy satisfecho.",2022-03-05,true,244,positive
+REV00469,4,"Producto de primera calidad, muy satisfecho.",2025-02-17,true,47,positive
+REV00470,5,Increíble relación calidad-precio.,2023-05-10,false,201,positive
+REV00471,3,Está bien para el uso cotidiano.,2024-01-04,true,181,neutral
+REV00472,4,Rápida entrega y producto tal como se describe.,2020-12-26,false,162,positive
+REV00473,3,"Cumple su función básica, nada extraordinario.",2021-11-02,true,192,neutral
+REV00474,5,"Excelente producto, lo recomiendo totalmente.",2025-12-24,true,86,positive
+REV00475,5,"Excelente producto, lo recomiendo totalmente.",2021-10-29,true,75,positive
+REV00476,5,Rápida entrega y producto tal como se describe.,2025-12-22,false,210,positive
+REV00477,5,"Producto de primera calidad, muy satisfecho.",2024-02-16,true,25,positive
+REV00478,3,Producto aceptable para el precio.,2025-11-22,true,15,neutral
+REV00479,4,"Superó mis expectativas, volveré a comprar.",2023-05-08,true,5,positive
+REV00480,2,"No corresponde a la descripción, poca calidad.",2023-06-22,true,141,negative
+REV00481,5,Increíble relación calidad-precio.,2020-11-03,true,4,positive
+REV00482,4,"Muy buena calidad, llegó en perfectas condiciones.",2025-12-22,true,175,positive
+REV00483,5,"Funciona perfecto, estoy muy contento con la compra.",2022-01-27,true,105,positive
+REV00484,5,"Producto de primera calidad, muy satisfecho.",2020-07-13,false,169,positive
+REV00485,4,"Muy buena calidad, llegó en perfectas condiciones.",2023-04-30,true,101,positive
+REV00486,5,"Superó mis expectativas, volveré a comprar.",2020-09-14,false,241,positive
+REV00487,5,"Funciona perfecto, estoy muy contento con la compra.",2023-04-27,false,99,positive
+REV00488,4,"Excelente producto, lo recomiendo totalmente.",2022-02-09,true,200,positive
+REV00489,5,Rápida entrega y producto tal como se describe.,2020-11-07,false,222,positive
+REV00490,5,Rápida entrega y producto tal como se describe.,2025-08-13,true,101,positive
+REV00491,4,"Excelente producto, lo recomiendo totalmente.",2024-03-04,true,23,positive
+REV00492,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-07-12,false,248,positive
+REV00493,3,Está bien para el uso cotidiano.,2021-06-28,true,14,neutral
+REV00494,5,Increíble relación calidad-precio.,2020-05-17,true,134,positive
+REV00495,1,Tardó demasiado en llegar y el empaque estaba dañado.,2023-11-07,true,5,negative
+REV00496,1,"No cumplió mis expectativas, calidad regular.",2023-01-28,true,88,negative
+REV00497,4,"Funciona perfecto, estoy muy contento con la compra.",2022-09-02,true,241,positive
+REV00498,5,Increíble relación calidad-precio.,2025-07-28,true,111,positive
+REV00499,3,"Cumple su función básica, nada extraordinario.",2021-04-10,true,81,neutral
+REV00500,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-03-30,true,49,positive
+REV00501,4,"Excelente producto, lo recomiendo totalmente.",2025-05-12,false,100,positive
+REV00502,5,"Excelente producto, lo recomiendo totalmente.",2022-01-26,true,171,positive
+REV00503,5,"Muy buena calidad, llegó en perfectas condiciones.",2025-10-28,false,49,positive
+REV00504,5,"Muy buena calidad, llegó en perfectas condiciones.",2025-03-21,true,234,positive
+REV00505,4,"Producto de primera calidad, muy satisfecho.",2023-01-14,true,99,positive
+REV00506,5,"Superó mis expectativas, volveré a comprar.",2023-02-09,true,247,positive
+REV00507,5,Rápida entrega y producto tal como se describe.,2024-09-10,false,250,positive
+REV00508,4,Rápida entrega y producto tal como se describe.,2020-05-24,true,112,positive
+REV00509,4,"Funciona perfecto, estoy muy contento con la compra.",2024-11-25,true,135,positive
+REV00510,4,Increíble relación calidad-precio.,2024-03-02,true,210,positive
+REV00511,4,"Excelente producto, lo recomiendo totalmente.",2022-01-05,true,35,positive
+REV00512,4,"Muy buena calidad, llegó en perfectas condiciones.",2021-06-05,false,157,positive
+REV00513,5,"Superó mis expectativas, volveré a comprar.",2023-11-17,true,46,positive
+REV00514,5,"Producto de primera calidad, muy satisfecho.",2021-03-17,true,140,positive
+REV00515,4,Rápida entrega y producto tal como se describe.,2022-11-29,false,17,positive
+REV00516,3,Está bien para el uso cotidiano.,2024-12-12,true,113,neutral
+REV00517,5,"Funciona perfecto, estoy muy contento con la compra.",2024-12-30,false,184,positive
+REV00518,2,"No cumplió mis expectativas, calidad regular.",2025-11-15,false,112,negative
+REV00519,5,"Funciona perfecto, estoy muy contento con la compra.",2025-06-15,false,242,positive
+REV00520,4,"Excelente producto, lo recomiendo totalmente.",2025-09-01,false,171,positive
+REV00521,4,Increíble relación calidad-precio.,2021-12-16,true,84,positive
+REV00522,5,"Excelente producto, lo recomiendo totalmente.",2025-04-11,false,247,positive
+REV00523,4,"Muy buena calidad, llegó en perfectas condiciones.",2024-07-17,true,67,positive
+REV00524,5,"Superó mis expectativas, volveré a comprar.",2024-07-15,true,197,positive
+REV00525,2,"El producto llegó con golpes, decepcionante.",2020-09-17,true,228,negative
+REV00526,2,"El producto llegó con golpes, decepcionante.",2021-05-28,false,157,negative
+REV00527,4,"Funciona perfecto, estoy muy contento con la compra.",2020-07-11,false,191,positive
+REV00528,5,"Producto de primera calidad, muy satisfecho.",2024-10-15,true,201,positive
+REV00529,2,"No corresponde a la descripción, poca calidad.",2020-08-05,true,126,negative
+REV00530,1,"No corresponde a la descripción, poca calidad.",2024-08-25,true,9,negative
+REV00531,2,"No corresponde a la descripción, poca calidad.",2021-11-06,true,99,negative
+REV00532,4,Increíble relación calidad-precio.,2024-04-29,true,85,positive
+REV00533,3,"Regular, esperaba un poco más.",2025-01-26,true,235,neutral
+REV00534,4,"Producto de primera calidad, muy satisfecho.",2021-07-25,true,240,positive
+REV00535,5,"Muy buena calidad, llegó en perfectas condiciones.",2021-05-24,true,54,positive
+REV00536,5,Rápida entrega y producto tal como se describe.,2021-08-09,true,191,positive
+REV00537,3,Producto aceptable para el precio.,2025-12-25,true,113,neutral
+REV00538,5,"Superó mis expectativas, volveré a comprar.",2025-01-03,false,124,positive
+REV00539,3,"Cumple su función básica, nada extraordinario.",2022-01-09,true,226,neutral
+REV00540,5,"Muy buena calidad, llegó en perfectas condiciones.",2020-09-28,false,202,positive
+REV00541,5,"Muy buena calidad, llegó en perfectas condiciones.",2022-12-11,false,132,positive
+REV00542,3,Producto aceptable para el precio.,2024-05-16,false,132,neutral
+REV00543,5,"Producto de primera calidad, muy satisfecho.",2025-01-30,true,130,positive
+REV00544,3,"Regular, esperaba un poco más.",2025-04-26,true,230,neutral
+REV00545,5,"Producto de primera calidad, muy satisfecho.",2021-08-11,true,234,positive
+REV00546,4,"Funciona perfecto, estoy muy contento con la compra.",2023-02-07,true,144,positive
+REV00547,4,Rápida entrega y producto tal como se describe.,2020-09-08,true,102,positive
+REV00548,5,"Excelente producto, lo recomiendo totalmente.",2025-03-29,false,50,positive
+REV00549,5,"Funciona perfecto, estoy muy contento con la compra.",2024-10-09,true,103,positive
+REV00550,5,"Superó mis expectativas, volveré a comprar.",2025-08-08,true,68,positive
+REV00551,3,"Regular, esperaba un poco más.",2020-12-02,true,186,neutral
+REV00552,4,"Superó mis expectativas, volveré a comprar.",2020-06-24,false,242,positive
+REV00553,3,"Regular, esperaba un poco más.",2020-06-30,false,132,neutral
+REV00554,2,"No cumplió mis expectativas, calidad regular.",2020-06-04,true,245,negative
+REV00555,5,"Superó mis expectativas, volveré a comprar.",2021-07-21,false,175,positive
+REV00556,4,"Excelente producto, lo recomiendo totalmente.",2025-09-18,true,8,positive
+REV00557,4,"Funciona perfecto, estoy muy contento con la compra.",2024-05-07,false,84,positive
+REV00558,3,"Cumple su función básica, nada extraordinario.",2020-01-06,false,220,neutral
+REV00559,5,"Producto de primera calidad, muy satisfecho.",2020-11-12,false,13,positive
+REV00560,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-10-31,true,121,positive
+REV00561,3,Está bien para el uso cotidiano.,2022-09-09,true,109,neutral
+REV00562,4,"Superó mis expectativas, volveré a comprar.",2024-09-25,true,162,positive
+REV00563,3,Producto aceptable para el precio.,2022-06-13,true,139,neutral
+REV00564,5,"Funciona perfecto, estoy muy contento con la compra.",2022-09-21,true,183,positive
+REV00565,4,"Producto de primera calidad, muy satisfecho.",2023-12-27,false,87,positive
+REV00566,4,"Excelente producto, lo recomiendo totalmente.",2023-02-11,true,154,positive
+REV00567,5,"Producto de primera calidad, muy satisfecho.",2021-07-21,true,52,positive
+REV00568,2,"El producto llegó con golpes, decepcionante.",2020-11-23,true,91,negative
+REV00569,5,"Superó mis expectativas, volveré a comprar.",2025-10-29,true,188,positive
+REV00570,5,Increíble relación calidad-precio.,2025-05-08,false,30,positive
+REV00571,3,"Cumple su función básica, nada extraordinario.",2020-03-25,false,105,neutral
+REV00572,4,"Excelente producto, lo recomiendo totalmente.",2022-02-02,true,64,positive
+REV00573,5,"Funciona perfecto, estoy muy contento con la compra.",2025-04-04,true,167,positive
+REV00574,5,"Producto de primera calidad, muy satisfecho.",2022-08-02,true,95,positive
+REV00575,5,Increíble relación calidad-precio.,2025-06-15,true,29,positive
+REV00576,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-05-04,true,81,positive
+REV00577,5,"Funciona perfecto, estoy muy contento con la compra.",2023-02-19,true,135,positive
+REV00578,4,Rápida entrega y producto tal como se describe.,2021-02-11,true,204,positive
+REV00579,4,"Muy buena calidad, llegó en perfectas condiciones.",2023-11-13,false,182,positive
+REV00580,4,"Producto de primera calidad, muy satisfecho.",2022-02-06,false,205,positive
+REV00581,4,"Excelente producto, lo recomiendo totalmente.",2020-10-17,false,39,positive
+REV00582,4,"Muy buena calidad, llegó en perfectas condiciones.",2021-12-09,true,140,positive
+REV00583,5,"Funciona perfecto, estoy muy contento con la compra.",2020-05-07,true,63,positive
+REV00584,4,"Producto de primera calidad, muy satisfecho.",2023-06-13,false,246,positive
+REV00585,4,"Producto de primera calidad, muy satisfecho.",2023-07-05,false,181,positive
+REV00586,5,Increíble relación calidad-precio.,2021-04-24,false,210,positive
+REV00587,4,Increíble relación calidad-precio.,2022-09-08,true,105,positive
+REV00588,3,"Regular, esperaba un poco más.",2020-10-26,true,220,neutral
+REV00589,2,"Producto defectuoso, tuve que devolverlo.",2020-06-29,true,10,negative
+REV00590,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-08-13,true,60,positive
+REV00591,3,"Cumple su función básica, nada extraordinario.",2022-08-20,false,183,neutral
+REV00592,4,"Funciona perfecto, estoy muy contento con la compra.",2025-12-04,true,74,positive
+REV00593,4,"Excelente producto, lo recomiendo totalmente.",2020-03-04,true,73,positive
+REV00594,4,Rápida entrega y producto tal como se describe.,2025-03-22,true,229,positive
+REV00595,4,Increíble relación calidad-precio.,2025-06-18,true,145,positive
+REV00596,1,Tardó demasiado en llegar y el empaque estaba dañado.,2020-08-26,false,103,negative
+REV00597,4,Increíble relación calidad-precio.,2024-02-04,true,183,positive
+REV00598,4,"Excelente producto, lo recomiendo totalmente.",2022-03-17,true,108,positive
+REV00599,1,"No corresponde a la descripción, poca calidad.",2023-06-04,true,3,negative
+REV00600,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-09-06,false,177,positive
+REV00601,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-10-16,false,208,positive
+REV00602,3,"Regular, esperaba un poco más.",2024-04-11,false,106,neutral
+REV00603,4,"Producto de primera calidad, muy satisfecho.",2022-11-07,true,157,positive
+REV00604,5,"Excelente producto, lo recomiendo totalmente.",2025-08-30,true,2,positive
+REV00605,1,"No cumplió mis expectativas, calidad regular.",2022-05-17,true,67,negative
+REV00606,3,"Regular, esperaba un poco más.",2021-02-03,true,194,neutral
+REV00607,4,Rápida entrega y producto tal como se describe.,2022-01-09,true,83,positive
+REV00608,5,Increíble relación calidad-precio.,2022-07-02,true,123,positive
+REV00609,4,"Funciona perfecto, estoy muy contento con la compra.",2021-08-01,true,184,positive
+REV00610,3,"Regular, esperaba un poco más.",2023-11-03,true,30,neutral
+REV00611,4,"Producto de primera calidad, muy satisfecho.",2024-09-22,true,20,positive
+REV00612,1,"No cumplió mis expectativas, calidad regular.",2023-12-10,false,22,negative
+REV00613,5,"Excelente producto, lo recomiendo totalmente.",2021-10-28,false,187,positive
+REV00614,3,"Cumple su función básica, nada extraordinario.",2022-04-24,true,130,neutral
+REV00615,5,"Excelente producto, lo recomiendo totalmente.",2021-06-09,true,248,positive
+REV00616,5,Increíble relación calidad-precio.,2020-12-19,true,248,positive
+REV00617,5,Increíble relación calidad-precio.,2025-11-23,true,166,positive
+REV00618,1,Tardó demasiado en llegar y el empaque estaba dañado.,2023-10-18,true,84,negative
+REV00619,2,"El producto llegó con golpes, decepcionante.",2022-07-03,false,185,negative
+REV00620,4,"Muy buena calidad, llegó en perfectas condiciones.",2023-02-24,true,65,positive
+REV00621,4,Increíble relación calidad-precio.,2021-03-07,false,50,positive
+REV00622,5,"Excelente producto, lo recomiendo totalmente.",2024-02-11,false,231,positive
+REV00623,5,"Funciona perfecto, estoy muy contento con la compra.",2023-06-18,true,157,positive
+REV00624,3,Está bien para el uso cotidiano.,2025-01-31,true,16,neutral
+REV00625,4,"Funciona perfecto, estoy muy contento con la compra.",2022-07-25,true,169,positive
+REV00626,1,"No cumplió mis expectativas, calidad regular.",2022-02-27,true,11,negative
+REV00627,4,"Funciona perfecto, estoy muy contento con la compra.",2025-06-15,true,47,positive
+REV00628,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-06-04,false,39,positive
+REV00629,5,"Muy buena calidad, llegó en perfectas condiciones.",2025-05-22,true,80,positive
+REV00630,4,"Funciona perfecto, estoy muy contento con la compra.",2020-01-02,true,177,positive
+REV00631,1,"No cumplió mis expectativas, calidad regular.",2024-05-09,true,156,negative
+REV00632,5,"Producto de primera calidad, muy satisfecho.",2020-12-13,false,220,positive
+REV00633,4,Rápida entrega y producto tal como se describe.,2020-12-22,false,4,positive
+REV00634,5,"Superó mis expectativas, volveré a comprar.",2023-05-31,true,92,positive
+REV00635,4,"Muy buena calidad, llegó en perfectas condiciones.",2025-07-12,true,57,positive
+REV00636,5,Increíble relación calidad-precio.,2021-04-07,true,148,positive
+REV00637,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-07-29,false,24,positive
+REV00638,4,"Producto de primera calidad, muy satisfecho.",2025-04-29,true,165,positive
+REV00639,4,"Producto de primera calidad, muy satisfecho.",2023-07-23,false,70,positive
+REV00640,5,"Producto de primera calidad, muy satisfecho.",2021-11-25,true,7,positive
+REV00641,4,"Funciona perfecto, estoy muy contento con la compra.",2021-09-19,true,198,positive
+REV00642,4,"Funciona perfecto, estoy muy contento con la compra.",2020-02-14,true,204,positive
+REV00643,5,Rápida entrega y producto tal como se describe.,2025-02-27,true,103,positive
+REV00644,5,"Muy buena calidad, llegó en perfectas condiciones.",2021-01-31,false,219,positive
+REV00645,5,Rápida entrega y producto tal como se describe.,2022-08-10,true,142,positive
+REV00646,5,"Muy buena calidad, llegó en perfectas condiciones.",2022-02-02,true,185,positive
+REV00647,5,"Producto de primera calidad, muy satisfecho.",2022-05-08,true,12,positive
+REV00648,4,"Funciona perfecto, estoy muy contento con la compra.",2022-02-08,true,240,positive
+REV00649,5,"Excelente producto, lo recomiendo totalmente.",2024-04-30,false,121,positive
+REV00650,2,Tardó demasiado en llegar y el empaque estaba dañado.,2021-01-19,true,1,negative
+REV00651,3,Producto aceptable para el precio.,2025-07-05,true,111,neutral
+REV00652,2,"No corresponde a la descripción, poca calidad.",2022-12-07,true,121,negative
+REV00653,5,"Excelente producto, lo recomiendo totalmente.",2025-12-04,true,4,positive
+REV00654,5,"Excelente producto, lo recomiendo totalmente.",2022-07-21,true,15,positive
+REV00655,5,Increíble relación calidad-precio.,2021-04-26,true,211,positive
+REV00656,4,"Excelente producto, lo recomiendo totalmente.",2020-11-22,true,186,positive
+REV00657,5,"Muy buena calidad, llegó en perfectas condiciones.",2021-10-24,true,90,positive
+REV00658,5,Rápida entrega y producto tal como se describe.,2021-09-06,true,196,positive
+REV00659,4,"Muy buena calidad, llegó en perfectas condiciones.",2022-10-20,false,114,positive
+REV00660,5,"Superó mis expectativas, volveré a comprar.",2020-11-05,false,187,positive
+REV00661,5,"Superó mis expectativas, volveré a comprar.",2021-02-08,true,231,positive
+REV00662,5,Rápida entrega y producto tal como se describe.,2024-06-14,true,158,positive
+REV00663,5,"Superó mis expectativas, volveré a comprar.",2021-03-03,true,131,positive
+REV00664,4,Increíble relación calidad-precio.,2022-01-28,false,172,positive
+REV00665,5,"Excelente producto, lo recomiendo totalmente.",2022-07-01,false,227,positive
+REV00666,3,Está bien para el uso cotidiano.,2021-05-11,false,120,neutral
+REV00667,4,"Funciona perfecto, estoy muy contento con la compra.",2020-10-15,true,96,positive
+REV00668,4,Increíble relación calidad-precio.,2021-04-29,true,186,positive
+REV00669,5,"Funciona perfecto, estoy muy contento con la compra.",2025-02-17,true,172,positive
+REV00670,1,"Producto defectuoso, tuve que devolverlo.",2024-03-23,true,116,negative
+REV00671,5,"Funciona perfecto, estoy muy contento con la compra.",2024-10-03,true,215,positive
+REV00672,5,"Producto de primera calidad, muy satisfecho.",2025-03-15,true,111,positive
+REV00673,4,Increíble relación calidad-precio.,2025-09-07,true,10,positive
+REV00674,5,"Superó mis expectativas, volveré a comprar.",2024-08-12,false,34,positive
+REV00675,3,"Cumple su función básica, nada extraordinario.",2022-07-06,false,61,neutral
+REV00676,3,"Regular, esperaba un poco más.",2021-12-20,true,127,neutral
+REV00677,4,"Producto de primera calidad, muy satisfecho.",2020-08-01,true,62,positive
+REV00678,5,Rápida entrega y producto tal como se describe.,2024-07-07,true,190,positive
+REV00679,5,"Superó mis expectativas, volveré a comprar.",2025-02-26,true,34,positive
+REV00680,2,"El producto llegó con golpes, decepcionante.",2023-09-22,false,204,negative
+REV00681,4,Rápida entrega y producto tal como se describe.,2025-09-11,false,227,positive
+REV00682,1,"El producto llegó con golpes, decepcionante.",2021-10-02,false,168,negative
+REV00683,5,"Superó mis expectativas, volveré a comprar.",2022-06-11,true,131,positive
+REV00684,4,"Muy buena calidad, llegó en perfectas condiciones.",2020-05-10,true,153,positive
+REV00685,5,Increíble relación calidad-precio.,2020-02-11,true,32,positive
+REV00686,3,Producto aceptable para el precio.,2022-07-09,true,75,neutral
+REV00687,5,Rápida entrega y producto tal como se describe.,2025-02-03,true,163,positive
+REV00688,4,"Superó mis expectativas, volveré a comprar.",2025-06-21,true,28,positive
+REV00689,5,"Funciona perfecto, estoy muy contento con la compra.",2025-12-04,false,80,positive
+REV00690,5,"Producto de primera calidad, muy satisfecho.",2022-04-07,true,95,positive
+REV00691,5,Increíble relación calidad-precio.,2022-10-23,true,106,positive
+REV00692,5,Increíble relación calidad-precio.,2024-05-23,true,45,positive
+REV00693,3,Está bien para el uso cotidiano.,2025-07-10,true,21,neutral
+REV00694,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-03-04,true,108,positive
+REV00695,4,"Excelente producto, lo recomiendo totalmente.",2020-11-09,false,119,positive
+REV00696,2,"No cumplió mis expectativas, calidad regular.",2023-09-28,false,156,negative
+REV00697,4,Rápida entrega y producto tal como se describe.,2020-07-03,true,207,positive
+REV00698,2,"Producto defectuoso, tuve que devolverlo.",2020-04-01,true,44,negative
+REV00699,2,"No cumplió mis expectativas, calidad regular.",2024-06-16,true,80,negative
+REV00700,1,"No corresponde a la descripción, poca calidad.",2021-01-03,true,60,negative
+REV00701,4,"Producto de primera calidad, muy satisfecho.",2020-12-26,true,104,positive
+REV00702,5,"Superó mis expectativas, volveré a comprar.",2023-09-04,true,206,positive
+REV00703,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-01-31,false,19,positive
+REV00704,4,"Funciona perfecto, estoy muy contento con la compra.",2020-12-22,true,167,positive
+REV00705,4,"Muy buena calidad, llegó en perfectas condiciones.",2022-03-15,true,51,positive
+REV00706,3,Está bien para el uso cotidiano.,2025-09-15,true,85,neutral
+REV00707,1,Tardó demasiado en llegar y el empaque estaba dañado.,2022-05-05,true,45,negative
+REV00708,5,"Superó mis expectativas, volveré a comprar.",2020-09-20,false,22,positive
+REV00709,4,"Muy buena calidad, llegó en perfectas condiciones.",2025-03-03,true,206,positive
+REV00710,4,"Producto de primera calidad, muy satisfecho.",2025-05-19,true,129,positive
+REV00711,5,"Funciona perfecto, estoy muy contento con la compra.",2020-09-21,true,203,positive
+REV00712,4,"Superó mis expectativas, volveré a comprar.",2024-11-09,true,197,positive
+REV00713,5,Increíble relación calidad-precio.,2023-11-18,true,146,positive
+REV00714,1,"No corresponde a la descripción, poca calidad.",2020-11-06,false,70,negative
+REV00715,1,Tardó demasiado en llegar y el empaque estaba dañado.,2021-09-20,false,182,negative
+REV00716,3,Está bien para el uso cotidiano.,2022-04-17,true,234,neutral
+REV00717,4,"Excelente producto, lo recomiendo totalmente.",2021-02-28,true,109,positive
+REV00718,5,"Funciona perfecto, estoy muy contento con la compra.",2025-10-16,true,193,positive
+REV00719,4,"Excelente producto, lo recomiendo totalmente.",2021-02-05,false,205,positive
+REV00720,3,Producto aceptable para el precio.,2021-01-24,true,219,neutral
+REV00721,3,"Cumple su función básica, nada extraordinario.",2024-05-20,true,81,neutral
+REV00722,5,"Muy buena calidad, llegó en perfectas condiciones.",2024-10-21,true,125,positive
+REV00723,5,"Excelente producto, lo recomiendo totalmente.",2021-11-22,false,75,positive
+REV00724,5,Increíble relación calidad-precio.,2025-09-23,false,232,positive
+REV00725,5,"Excelente producto, lo recomiendo totalmente.",2021-12-10,true,194,positive
+REV00726,4,Rápida entrega y producto tal como se describe.,2021-11-27,true,93,positive
+REV00727,2,Tardó demasiado en llegar y el empaque estaba dañado.,2025-07-14,true,102,negative
+REV00728,2,"Producto defectuoso, tuve que devolverlo.",2025-07-05,false,207,negative
+REV00729,2,Tardó demasiado en llegar y el empaque estaba dañado.,2021-09-03,true,58,negative
+REV00730,5,Increíble relación calidad-precio.,2021-05-18,true,187,positive
+REV00731,3,"Cumple su función básica, nada extraordinario.",2022-10-09,true,110,neutral
+REV00732,3,Está bien para el uso cotidiano.,2023-06-28,true,178,neutral
+REV00733,5,"Excelente producto, lo recomiendo totalmente.",2020-04-24,false,64,positive
+REV00734,2,Tardó demasiado en llegar y el empaque estaba dañado.,2021-01-03,true,140,negative
+REV00735,3,"Cumple su función básica, nada extraordinario.",2021-06-10,true,73,neutral
+REV00736,4,"Muy buena calidad, llegó en perfectas condiciones.",2022-03-08,true,33,positive
+REV00737,5,"Excelente producto, lo recomiendo totalmente.",2024-11-01,false,72,positive
+REV00738,5,Increíble relación calidad-precio.,2024-12-03,true,36,positive
+REV00739,5,"Muy buena calidad, llegó en perfectas condiciones.",2021-07-19,true,40,positive
+REV00740,5,"Muy buena calidad, llegó en perfectas condiciones.",2022-05-29,true,131,positive
+REV00741,5,"Muy buena calidad, llegó en perfectas condiciones.",2021-03-02,true,87,positive
+REV00742,5,Rápida entrega y producto tal como se describe.,2023-02-21,true,88,positive
+REV00743,5,"Superó mis expectativas, volveré a comprar.",2023-03-05,false,23,positive
+REV00744,4,"Superó mis expectativas, volveré a comprar.",2023-01-06,true,0,positive
+REV00745,4,Rápida entrega y producto tal como se describe.,2020-05-17,true,176,positive
+REV00746,4,"Funciona perfecto, estoy muy contento con la compra.",2021-12-24,false,63,positive
+REV00747,5,"Superó mis expectativas, volveré a comprar.",2022-08-08,true,186,positive
+REV00748,4,Rápida entrega y producto tal como se describe.,2023-07-31,true,192,positive
+REV00749,4,Increíble relación calidad-precio.,2025-05-31,true,236,positive
+REV00750,5,"Producto de primera calidad, muy satisfecho.",2021-05-10,false,82,positive

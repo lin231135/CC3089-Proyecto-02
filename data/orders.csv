@@ -1,0 +1,501 @@
+orderId,status,total,placedAt,deliveredAt,isPaid,notes
+ORD00001,shipped,2708.28,2024-06-27,,false,Producto regalo
+ORD00002,delivered,4922.55,2020-05-15,2020-06-09,true,Urgente
+ORD00003,processing,3817.27,2025-04-13,,false,Sin factura
+ORD00004,pending,4034.67,2020-08-22,,true,
+ORD00005,returned,760.46,2023-12-04,,true,Entregar en recepción
+ORD00006,shipped,748.25,2025-12-09,,true,Producto regalo
+ORD00007,pending,1439.75,2025-07-15,,true,Sin factura
+ORD00008,returned,3149.62,2020-05-02,,false,Llamar antes de entregar
+ORD00009,cancelled,2054.71,2023-02-15,,false,Llamar antes de entregar
+ORD00010,delivered,3622.57,2021-03-25,2021-03-29,true,Llamar antes de entregar
+ORD00011,processing,2931.86,2023-08-23,,true,Entregar en recepción
+ORD00012,processing,4440.83,2025-04-04,,true,Llamar antes de entregar
+ORD00013,returned,3067.16,2024-04-09,,true,Urgente
+ORD00014,delivered,373.57,2020-05-22,2020-06-13,true,Entregar en recepción
+ORD00015,shipped,421.89,2024-10-16,,true,Urgente
+ORD00016,processing,2329.94,2020-07-01,,true,
+ORD00017,delivered,1657.44,2021-11-14,2021-12-14,false,Entregar en recepción
+ORD00018,processing,4747.15,2023-08-09,,false,
+ORD00019,delivered,3860.39,2022-02-04,2022-02-26,true,
+ORD00020,shipped,3802.56,2024-06-15,,true,Llamar antes de entregar
+ORD00021,cancelled,166.54,2020-12-19,,true,Producto regalo
+ORD00022,returned,887.95,2023-08-04,,false,Entregar en recepción
+ORD00023,cancelled,3804.96,2024-07-13,,false,
+ORD00024,pending,1744.73,2025-07-05,,true,Urgente
+ORD00025,processing,395.12,2021-12-02,,false,Sin factura
+ORD00026,processing,4402.89,2023-04-07,,true,Sin factura
+ORD00027,processing,1293.66,2021-08-04,,true,Sin factura
+ORD00028,delivered,442.33,2024-12-19,2025-01-18,true,Producto regalo
+ORD00029,processing,3352.75,2024-03-13,,false,
+ORD00030,delivered,2503.26,2024-01-31,2024-02-14,true,Sin factura
+ORD00031,returned,247.78,2022-06-04,,true,Entregar en recepción
+ORD00032,cancelled,1967.9,2022-03-07,,false,Urgente
+ORD00033,returned,920.71,2021-04-05,,true,Producto regalo
+ORD00034,delivered,127.74,2024-08-25,2024-09-15,false,
+ORD00035,delivered,263.75,2025-05-25,2025-06-05,true,
+ORD00036,delivered,3083.41,2022-02-02,2022-02-14,true,Urgente
+ORD00037,shipped,4369.88,2024-08-02,,true,Sin factura
+ORD00038,processing,2268.49,2021-09-28,,true,
+ORD00039,returned,1087.44,2022-12-20,,true,Producto regalo
+ORD00040,processing,4140.89,2023-03-28,,false,Entregar en recepción
+ORD00041,returned,4946.91,2021-12-19,,true,Urgente
+ORD00042,cancelled,1307.55,2025-08-23,,true,Producto regalo
+ORD00043,cancelled,3647.38,2024-09-02,,true,
+ORD00044,returned,4362.05,2022-10-06,,false,Sin factura
+ORD00045,shipped,3398.44,2022-05-27,,true,Entregar en recepción
+ORD00046,cancelled,3062.47,2025-10-10,,true,
+ORD00047,returned,137.02,2024-09-01,,true,
+ORD00048,cancelled,2810.92,2025-09-04,,true,
+ORD00049,cancelled,1163.31,2022-12-12,,true,Urgente
+ORD00050,processing,3890.77,2021-12-25,,false,Llamar antes de entregar
+ORD00051,delivered,1302.37,2021-06-04,2021-06-16,true,Producto regalo
+ORD00052,processing,3521.65,2025-06-24,,true,Urgente
+ORD00053,processing,518.52,2025-06-06,,true,Llamar antes de entregar
+ORD00054,processing,260.42,2023-11-27,,true,
+ORD00055,processing,4662.4,2024-05-26,,true,Producto regalo
+ORD00056,pending,3526.06,2022-11-04,,true,Producto regalo
+ORD00057,delivered,2000.91,2023-10-17,2023-10-18,true,
+ORD00058,pending,1004.48,2023-04-28,,true,Producto regalo
+ORD00059,returned,4141.43,2024-10-11,,true,Llamar antes de entregar
+ORD00060,delivered,4534.73,2021-09-02,2021-09-26,false,Producto regalo
+ORD00061,cancelled,1068.86,2020-09-26,,true,Entregar en recepción
+ORD00062,processing,3686.72,2020-01-16,,false,
+ORD00063,delivered,4303.24,2020-12-23,2021-01-03,true,
+ORD00064,delivered,3325.42,2024-08-09,2024-08-28,true,Sin factura
+ORD00065,delivered,3247.54,2023-10-25,2023-11-09,true,Llamar antes de entregar
+ORD00066,cancelled,4990.96,2023-12-25,,true,Producto regalo
+ORD00067,pending,698.18,2024-12-18,,false,Producto regalo
+ORD00068,cancelled,2871.02,2023-01-30,,true,
+ORD00069,shipped,2257.06,2023-11-24,,true,
+ORD00070,returned,4869.44,2023-01-06,,true,Llamar antes de entregar
+ORD00071,processing,995.68,2021-02-28,,false,Producto regalo
+ORD00072,shipped,4504.4,2025-03-31,,false,Entregar en recepción
+ORD00073,pending,3401.84,2022-01-11,,true,Entregar en recepción
+ORD00074,processing,472.3,2021-03-17,,false,Urgente
+ORD00075,shipped,1027.97,2020-04-25,,true,Producto regalo
+ORD00076,pending,891.52,2023-08-31,,true,Llamar antes de entregar
+ORD00077,pending,3680.35,2022-08-26,,true,Entregar en recepción
+ORD00078,pending,1499.12,2021-11-20,,false,Entregar en recepción
+ORD00079,processing,3254.44,2023-08-14,,true,Urgente
+ORD00080,processing,3486.9,2022-04-06,,true,
+ORD00081,processing,3800.9,2020-09-21,,false,Llamar antes de entregar
+ORD00082,returned,4359.45,2025-01-01,,true,
+ORD00083,returned,2534.49,2022-05-14,,true,Entregar en recepción
+ORD00084,pending,4006.05,2023-08-18,,true,Sin factura
+ORD00085,pending,4616.0,2021-07-30,,true,Entregar en recepción
+ORD00086,cancelled,217.36,2022-11-09,,true,Sin factura
+ORD00087,delivered,2787.71,2023-05-28,2023-06-01,true,Sin factura
+ORD00088,delivered,1852.04,2021-02-13,2021-03-09,true,Llamar antes de entregar
+ORD00089,shipped,1251.55,2022-03-11,,true,Producto regalo
+ORD00090,processing,4604.02,2023-10-19,,true,Producto regalo
+ORD00091,delivered,1461.03,2021-03-30,2021-04-14,true,Producto regalo
+ORD00092,pending,4131.91,2020-11-30,,false,Llamar antes de entregar
+ORD00093,processing,3412.94,2023-01-21,,true,Producto regalo
+ORD00094,delivered,2495.8,2022-08-28,2022-08-31,false,Llamar antes de entregar
+ORD00095,delivered,4816.67,2025-06-04,2025-06-24,true,
+ORD00096,pending,3949.28,2020-11-15,,true,
+ORD00097,returned,1945.47,2023-05-24,,true,
+ORD00098,cancelled,2237.06,2025-01-21,,true,Entregar en recepción
+ORD00099,pending,2155.86,2020-08-03,,true,Sin factura
+ORD00100,cancelled,3227.86,2022-03-11,,true,Producto regalo
+ORD00101,returned,4680.67,2025-01-26,,true,Producto regalo
+ORD00102,shipped,4444.36,2022-11-22,,false,
+ORD00103,shipped,4386.34,2021-08-12,,true,Producto regalo
+ORD00104,pending,1961.55,2023-10-03,,true,
+ORD00105,shipped,1177.52,2024-11-14,,true,
+ORD00106,processing,4366.5,2023-01-18,,true,Entregar en recepción
+ORD00107,shipped,1735.01,2024-03-30,,false,Producto regalo
+ORD00108,pending,656.35,2020-08-23,,true,Urgente
+ORD00109,delivered,3389.35,2020-09-10,2020-09-17,true,
+ORD00110,returned,810.71,2022-06-12,,true,
+ORD00111,processing,4703.34,2025-11-11,,true,Entregar en recepción
+ORD00112,cancelled,4471.26,2024-10-17,,false,
+ORD00113,shipped,3499.41,2023-06-18,,true,Urgente
+ORD00114,cancelled,4411.39,2024-02-03,,true,Producto regalo
+ORD00115,cancelled,2563.95,2024-08-03,,true,Producto regalo
+ORD00116,shipped,3239.3,2021-08-29,,true,Llamar antes de entregar
+ORD00117,returned,988.78,2022-07-17,,false,Producto regalo
+ORD00118,pending,2312.68,2021-12-24,,false,
+ORD00119,processing,1719.04,2024-11-25,,true,
+ORD00120,processing,1354.03,2023-09-25,,true,Llamar antes de entregar
+ORD00121,returned,2611.65,2020-07-14,,false,Llamar antes de entregar
+ORD00122,cancelled,2695.21,2025-08-20,,true,Entregar en recepción
+ORD00123,returned,2607.34,2020-09-07,,false,Llamar antes de entregar
+ORD00124,delivered,3507.03,2023-02-07,2023-02-26,true,
+ORD00125,pending,4486.51,2023-05-10,,true,Urgente
+ORD00126,processing,1787.55,2021-05-01,,true,Llamar antes de entregar
+ORD00127,delivered,743.69,2020-05-15,2020-06-11,false,Entregar en recepción
+ORD00128,shipped,1553.1,2024-01-17,,false,
+ORD00129,returned,3461.95,2024-02-24,,true,Urgente
+ORD00130,processing,1264.92,2025-03-20,,true,Producto regalo
+ORD00131,processing,4823.98,2024-10-31,,false,
+ORD00132,shipped,3338.84,2024-12-13,,false,
+ORD00133,returned,1774.64,2020-04-25,,false,
+ORD00134,pending,856.21,2021-02-07,,true,
+ORD00135,delivered,3634.69,2022-07-24,2022-07-28,true,Llamar antes de entregar
+ORD00136,delivered,773.17,2021-04-29,2021-05-01,true,Entregar en recepción
+ORD00137,cancelled,4116.4,2021-07-23,,true,
+ORD00138,pending,2929.86,2022-05-12,,true,Llamar antes de entregar
+ORD00139,returned,1526.21,2020-07-02,,true,Llamar antes de entregar
+ORD00140,cancelled,283.52,2024-12-30,,true,Llamar antes de entregar
+ORD00141,processing,2413.1,2024-02-25,,true,Entregar en recepción
+ORD00142,cancelled,1731.21,2020-04-24,,true,Urgente
+ORD00143,delivered,1423.16,2023-04-14,2023-05-14,true,Entregar en recepción
+ORD00144,processing,4118.48,2024-04-14,,true,Entregar en recepción
+ORD00145,shipped,2857.95,2023-06-13,,false,
+ORD00146,cancelled,3962.0,2022-04-28,,true,Sin factura
+ORD00147,pending,215.3,2021-07-18,,true,Producto regalo
+ORD00148,returned,3310.79,2020-07-19,,false,Urgente
+ORD00149,processing,3197.73,2022-12-13,,true,Sin factura
+ORD00150,pending,3417.42,2022-09-22,,true,Urgente
+ORD00151,shipped,3439.47,2022-03-07,,true,Entregar en recepción
+ORD00152,pending,3601.36,2020-06-22,,false,Entregar en recepción
+ORD00153,pending,3355.99,2021-02-13,,true,Producto regalo
+ORD00154,processing,2645.14,2022-02-10,,true,Producto regalo
+ORD00155,returned,3310.47,2025-03-04,,true,
+ORD00156,processing,4592.84,2020-04-21,,true,Sin factura
+ORD00157,cancelled,2403.49,2022-09-14,,false,
+ORD00158,delivered,1206.46,2021-07-29,2021-08-18,true,Llamar antes de entregar
+ORD00159,shipped,328.54,2024-09-28,,true,
+ORD00160,shipped,3472.88,2022-02-14,,true,Sin factura
+ORD00161,cancelled,3510.02,2024-05-19,,true,Entregar en recepción
+ORD00162,returned,1165.39,2023-06-08,,true,Urgente
+ORD00163,pending,360.89,2022-12-10,,true,Urgente
+ORD00164,shipped,60.0,2023-11-14,,true,
+ORD00165,cancelled,1832.43,2020-04-06,,true,Producto regalo
+ORD00166,cancelled,3078.19,2021-07-21,,false,Entregar en recepción
+ORD00167,delivered,2409.34,2021-01-02,2021-01-30,true,Entregar en recepción
+ORD00168,delivered,4101.98,2022-05-22,2022-06-04,true,
+ORD00169,processing,1506.74,2023-04-25,,true,Producto regalo
+ORD00170,processing,1817.34,2024-05-21,,true,Llamar antes de entregar
+ORD00171,pending,18.06,2023-09-18,,true,
+ORD00172,shipped,2757.34,2024-01-31,,true,Llamar antes de entregar
+ORD00173,pending,1362.42,2025-07-05,,true,Llamar antes de entregar
+ORD00174,pending,3395.83,2021-03-05,,false,Entregar en recepción
+ORD00175,delivered,3065.35,2021-02-24,2021-03-07,false,Entregar en recepción
+ORD00176,returned,2989.03,2023-11-11,,true,Sin factura
+ORD00177,pending,887.97,2022-09-14,,true,Urgente
+ORD00178,returned,1155.46,2023-01-28,,true,Producto regalo
+ORD00179,pending,4546.41,2021-06-21,,true,Sin factura
+ORD00180,cancelled,4089.56,2025-02-02,,true,Producto regalo
+ORD00181,pending,2162.28,2023-08-31,,true,Producto regalo
+ORD00182,delivered,2137.48,2020-08-16,2020-09-10,true,Urgente
+ORD00183,returned,3985.81,2022-05-16,,true,Entregar en recepción
+ORD00184,delivered,2190.16,2023-11-30,2023-12-13,true,Sin factura
+ORD00185,processing,1435.5,2021-12-14,,true,Entregar en recepción
+ORD00186,processing,1828.46,2021-02-08,,true,Urgente
+ORD00187,returned,4735.35,2023-11-24,,true,Producto regalo
+ORD00188,processing,2904.47,2023-12-06,,false,Entregar en recepción
+ORD00189,cancelled,1526.69,2023-08-28,,true,Llamar antes de entregar
+ORD00190,delivered,3807.41,2020-11-03,2020-11-15,true,Producto regalo
+ORD00191,cancelled,4895.61,2022-03-13,,false,Entregar en recepción
+ORD00192,shipped,1775.93,2023-11-29,,false,Producto regalo
+ORD00193,delivered,1796.93,2023-06-30,2023-07-14,false,Urgente
+ORD00194,delivered,1614.57,2023-08-17,2023-09-10,false,Sin factura
+ORD00195,pending,2325.16,2024-07-24,,true,Urgente
+ORD00196,shipped,506.18,2024-08-20,,true,Sin factura
+ORD00197,cancelled,4368.79,2020-01-22,,true,
+ORD00198,cancelled,23.86,2023-09-19,,false,
+ORD00199,shipped,4787.56,2021-11-09,,false,Producto regalo
+ORD00200,returned,245.08,2024-01-02,,true,
+ORD00201,delivered,3466.19,2023-05-11,2023-06-07,false,Urgente
+ORD00202,cancelled,3913.22,2024-05-15,,true,
+ORD00203,pending,1485.8,2022-01-21,,true,Producto regalo
+ORD00204,shipped,4296.03,2021-08-05,,false,Urgente
+ORD00205,returned,797.93,2021-10-28,,true,Llamar antes de entregar
+ORD00206,processing,2809.78,2021-12-16,,true,Entregar en recepción
+ORD00207,returned,4895.53,2023-02-27,,true,
+ORD00208,delivered,4782.12,2021-07-04,2021-07-12,false,
+ORD00209,shipped,4266.46,2023-04-17,,false,Urgente
+ORD00210,returned,666.45,2021-01-10,,true,Sin factura
+ORD00211,shipped,2995.49,2023-09-08,,true,Urgente
+ORD00212,returned,1664.17,2023-07-06,,true,
+ORD00213,delivered,1121.98,2023-04-16,2023-05-05,true,Llamar antes de entregar
+ORD00214,processing,3580.32,2023-10-23,,true,Urgente
+ORD00215,processing,2861.0,2023-08-10,,true,
+ORD00216,delivered,3772.78,2020-09-26,2020-10-18,true,Producto regalo
+ORD00217,pending,1442.78,2022-10-18,,true,Sin factura
+ORD00218,processing,4254.55,2024-09-29,,true,Sin factura
+ORD00219,shipped,24.59,2021-01-29,,true,Urgente
+ORD00220,returned,3096.07,2023-08-12,,false,Producto regalo
+ORD00221,pending,1817.12,2023-01-07,,true,Producto regalo
+ORD00222,shipped,4960.44,2024-02-12,,true,Llamar antes de entregar
+ORD00223,pending,3583.27,2023-01-21,,true,Entregar en recepción
+ORD00224,pending,942.97,2020-03-09,,true,Urgente
+ORD00225,shipped,189.84,2024-07-25,,true,Producto regalo
+ORD00226,shipped,183.8,2024-12-19,,true,Llamar antes de entregar
+ORD00227,shipped,3035.02,2023-06-27,,true,Sin factura
+ORD00228,shipped,3798.06,2022-04-19,,false,
+ORD00229,returned,4934.88,2024-12-18,,false,Urgente
+ORD00230,returned,2938.93,2024-07-04,,true,
+ORD00231,pending,4087.56,2022-05-15,,true,Llamar antes de entregar
+ORD00232,cancelled,4891.54,2022-04-19,,false,
+ORD00233,cancelled,2427.05,2024-01-14,,true,Urgente
+ORD00234,cancelled,4234.23,2020-09-09,,false,Entregar en recepción
+ORD00235,shipped,2821.14,2024-08-30,,true,Urgente
+ORD00236,delivered,4256.09,2022-10-28,2022-11-26,true,Urgente
+ORD00237,delivered,63.74,2021-12-30,2022-01-03,false,Urgente
+ORD00238,pending,696.16,2022-07-11,,true,Sin factura
+ORD00239,cancelled,3890.52,2022-11-26,,true,Sin factura
+ORD00240,delivered,1312.0,2021-03-25,2021-04-01,true,Llamar antes de entregar
+ORD00241,returned,2121.38,2022-03-08,,true,Entregar en recepción
+ORD00242,cancelled,3478.0,2025-05-06,,true,Llamar antes de entregar
+ORD00243,returned,3680.0,2020-12-14,,true,Urgente
+ORD00244,pending,2810.2,2025-12-05,,false,
+ORD00245,returned,1175.91,2020-12-24,,true,Producto regalo
+ORD00246,processing,477.87,2023-08-27,,true,Entregar en recepción
+ORD00247,pending,4527.14,2021-11-12,,true,
+ORD00248,processing,2521.09,2025-03-20,,true,
+ORD00249,processing,2431.71,2024-08-31,,true,
+ORD00250,processing,4738.07,2020-06-16,,true,Entregar en recepción
+ORD00251,processing,1533.13,2020-07-25,,true,Sin factura
+ORD00252,shipped,3022.58,2023-04-18,,true,Sin factura
+ORD00253,shipped,1772.76,2021-02-05,,false,
+ORD00254,processing,4353.15,2020-05-20,,true,Sin factura
+ORD00255,returned,940.02,2020-03-10,,true,Llamar antes de entregar
+ORD00256,shipped,2497.83,2021-11-03,,true,Urgente
+ORD00257,returned,1200.41,2021-05-24,,true,Producto regalo
+ORD00258,shipped,1128.58,2023-02-03,,true,
+ORD00259,cancelled,1667.15,2023-10-30,,false,
+ORD00260,processing,1237.19,2021-01-07,,false,Llamar antes de entregar
+ORD00261,processing,2509.16,2025-11-02,,true,
+ORD00262,pending,4394.11,2021-10-26,,true,
+ORD00263,cancelled,2769.65,2021-09-30,,false,Llamar antes de entregar
+ORD00264,pending,1933.02,2024-07-12,,true,Producto regalo
+ORD00265,delivered,2575.64,2020-02-05,2020-02-11,true,
+ORD00266,pending,4200.45,2021-06-27,,true,Urgente
+ORD00267,shipped,3187.22,2024-03-26,,false,Llamar antes de entregar
+ORD00268,processing,648.07,2022-05-22,,false,
+ORD00269,pending,4269.87,2022-10-01,,true,
+ORD00270,shipped,1891.11,2022-09-09,,true,Urgente
+ORD00271,cancelled,4101.05,2023-08-29,,true,
+ORD00272,cancelled,4652.68,2025-11-27,,true,Llamar antes de entregar
+ORD00273,returned,2923.91,2023-12-29,,true,Urgente
+ORD00274,shipped,2336.31,2024-12-03,,true,Entregar en recepción
+ORD00275,delivered,4958.23,2020-08-13,2020-08-22,true,Urgente
+ORD00276,shipped,1162.35,2021-03-17,,false,Llamar antes de entregar
+ORD00277,delivered,4366.25,2020-01-08,2020-01-19,true,Llamar antes de entregar
+ORD00278,delivered,2430.1,2022-11-25,2022-12-18,true,Sin factura
+ORD00279,returned,808.65,2020-10-06,,true,Entregar en recepción
+ORD00280,shipped,1596.83,2025-09-26,,false,
+ORD00281,shipped,4906.2,2022-07-28,,true,Producto regalo
+ORD00282,pending,4696.27,2023-04-18,,true,
+ORD00283,returned,3091.1,2022-07-05,,false,Producto regalo
+ORD00284,cancelled,3080.08,2023-10-25,,true,Producto regalo
+ORD00285,processing,3691.68,2025-06-09,,false,Llamar antes de entregar
+ORD00286,processing,586.77,2022-10-26,,true,Llamar antes de entregar
+ORD00287,cancelled,1060.71,2020-01-07,,true,
+ORD00288,shipped,695.85,2021-02-05,,true,Entregar en recepción
+ORD00289,pending,1494.64,2025-02-07,,true,
+ORD00290,processing,255.99,2025-06-01,,true,Urgente
+ORD00291,processing,1181.36,2020-07-31,,false,Sin factura
+ORD00292,processing,4780.65,2025-06-28,,false,Entregar en recepción
+ORD00293,cancelled,4581.17,2021-02-01,,true,Entregar en recepción
+ORD00294,shipped,4644.96,2025-02-27,,true,
+ORD00295,processing,4738.01,2022-01-04,,false,Sin factura
+ORD00296,pending,314.08,2023-02-25,,true,Sin factura
+ORD00297,cancelled,4560.51,2023-11-20,,true,
+ORD00298,cancelled,2489.61,2023-01-12,,true,Urgente
+ORD00299,processing,20.33,2022-08-21,,true,Llamar antes de entregar
+ORD00300,returned,3728.59,2022-02-16,,true,Llamar antes de entregar
+ORD00301,shipped,946.06,2023-10-22,,true,Sin factura
+ORD00302,cancelled,646.81,2025-02-01,,true,
+ORD00303,cancelled,4717.78,2023-01-12,,true,Entregar en recepción
+ORD00304,shipped,4141.5,2023-04-07,,true,
+ORD00305,cancelled,414.43,2020-05-10,,true,Urgente
+ORD00306,pending,971.65,2025-02-25,,true,Entregar en recepción
+ORD00307,pending,2583.7,2023-04-16,,true,
+ORD00308,shipped,2405.81,2025-08-01,,true,Entregar en recepción
+ORD00309,pending,426.97,2020-04-26,,false,Entregar en recepción
+ORD00310,cancelled,4712.75,2024-02-07,,false,Producto regalo
+ORD00311,processing,4258.58,2020-11-15,,true,Sin factura
+ORD00312,delivered,4982.0,2025-08-22,2025-09-16,true,Llamar antes de entregar
+ORD00313,pending,1925.67,2024-01-14,,true,Sin factura
+ORD00314,processing,1060.41,2020-11-11,,true,
+ORD00315,cancelled,1790.63,2025-03-13,,false,Producto regalo
+ORD00316,pending,4397.35,2024-07-19,,true,
+ORD00317,shipped,4867.67,2020-08-03,,true,
+ORD00318,delivered,594.5,2021-08-12,2021-08-25,false,
+ORD00319,pending,696.7,2021-06-01,,true,
+ORD00320,pending,4914.75,2025-04-14,,true,
+ORD00321,delivered,1750.58,2022-06-02,2022-06-27,false,
+ORD00322,cancelled,4968.7,2023-07-02,,true,Entregar en recepción
+ORD00323,returned,3727.98,2023-01-11,,false,Sin factura
+ORD00324,cancelled,4330.24,2023-01-08,,true,Entregar en recepción
+ORD00325,pending,2965.29,2020-07-13,,true,
+ORD00326,delivered,4860.92,2021-10-13,2021-10-20,true,Llamar antes de entregar
+ORD00327,processing,3322.19,2021-04-08,,true,
+ORD00328,pending,1909.44,2022-04-22,,true,Entregar en recepción
+ORD00329,shipped,1924.13,2024-12-09,,true,Producto regalo
+ORD00330,returned,808.74,2023-04-22,,true,Entregar en recepción
+ORD00331,shipped,1689.96,2021-10-16,,true,
+ORD00332,delivered,2168.16,2023-02-15,2023-02-23,false,
+ORD00333,shipped,4761.32,2023-05-01,,true,
+ORD00334,shipped,1781.45,2022-04-25,,false,Urgente
+ORD00335,processing,804.44,2023-03-01,,true,Llamar antes de entregar
+ORD00336,delivered,3729.33,2024-11-24,2024-12-22,false,Entregar en recepción
+ORD00337,returned,1955.3,2021-11-16,,false,Producto regalo
+ORD00338,cancelled,1394.7,2023-05-30,,false,Llamar antes de entregar
+ORD00339,processing,3623.07,2023-10-05,,true,Entregar en recepción
+ORD00340,cancelled,1311.01,2020-06-26,,true,Entregar en recepción
+ORD00341,cancelled,2666.68,2024-02-09,,true,Producto regalo
+ORD00342,delivered,4211.39,2023-01-18,2023-01-21,true,Urgente
+ORD00343,returned,953.33,2024-06-18,,true,
+ORD00344,processing,551.55,2025-09-26,,false,
+ORD00345,delivered,1180.41,2021-05-18,2021-06-15,true,Sin factura
+ORD00346,pending,3863.47,2024-02-26,,true,Urgente
+ORD00347,processing,34.11,2023-07-26,,true,Llamar antes de entregar
+ORD00348,processing,2331.9,2020-04-03,,true,
+ORD00349,cancelled,2660.81,2020-09-06,,false,Sin factura
+ORD00350,cancelled,3744.27,2022-09-13,,true,Llamar antes de entregar
+ORD00351,delivered,1321.92,2025-08-20,2025-08-29,true,Sin factura
+ORD00352,cancelled,2876.56,2025-01-10,,true,
+ORD00353,processing,3670.92,2025-06-01,,true,Entregar en recepción
+ORD00354,processing,2655.68,2020-08-24,,true,
+ORD00355,delivered,2930.11,2025-05-09,2025-05-26,true,Producto regalo
+ORD00356,pending,4450.25,2025-12-02,,true,Producto regalo
+ORD00357,delivered,3817.18,2025-11-10,2025-12-10,false,Entregar en recepción
+ORD00358,shipped,38.47,2020-08-20,,true,
+ORD00359,cancelled,3890.87,2024-07-13,,false,Sin factura
+ORD00360,pending,4232.12,2022-12-07,,true,Sin factura
+ORD00361,shipped,2416.86,2022-06-30,,true,Urgente
+ORD00362,shipped,1089.65,2021-09-24,,false,
+ORD00363,returned,3643.65,2020-03-24,,true,Sin factura
+ORD00364,processing,377.96,2024-02-16,,false,
+ORD00365,delivered,1027.51,2025-06-13,2025-06-15,true,Entregar en recepción
+ORD00366,delivered,3423.18,2020-06-19,2020-06-22,true,
+ORD00367,shipped,1375.23,2020-09-23,,true,
+ORD00368,returned,4158.03,2025-05-29,,true,Urgente
+ORD00369,returned,1064.52,2023-03-29,,true,Producto regalo
+ORD00370,delivered,1118.45,2023-09-05,2023-09-24,true,Urgente
+ORD00371,pending,4801.81,2025-11-17,,true,Producto regalo
+ORD00372,pending,4748.54,2020-11-13,,true,Producto regalo
+ORD00373,pending,1329.75,2020-04-24,,false,
+ORD00374,cancelled,2385.7,2025-02-22,,true,Urgente
+ORD00375,processing,536.83,2022-08-16,,false,Producto regalo
+ORD00376,shipped,855.27,2021-08-09,,false,Llamar antes de entregar
+ORD00377,pending,90.96,2024-08-21,,true,Producto regalo
+ORD00378,shipped,18.08,2024-12-17,,false,Urgente
+ORD00379,pending,1084.91,2025-03-07,,true,Llamar antes de entregar
+ORD00380,returned,2725.45,2024-06-19,,false,Producto regalo
+ORD00381,cancelled,3934.35,2021-01-19,,true,
+ORD00382,pending,321.18,2025-02-01,,true,
+ORD00383,processing,670.72,2021-02-14,,true,
+ORD00384,cancelled,4371.12,2021-11-24,,false,Sin factura
+ORD00385,pending,618.25,2020-06-20,,true,
+ORD00386,returned,2835.8,2020-11-09,,true,
+ORD00387,pending,4580.31,2023-01-05,,true,Producto regalo
+ORD00388,pending,4195.61,2025-10-23,,false,
+ORD00389,pending,3959.5,2023-02-27,,true,
+ORD00390,processing,757.6,2024-10-09,,true,Entregar en recepción
+ORD00391,cancelled,1293.88,2024-01-26,,true,Entregar en recepción
+ORD00392,pending,2235.87,2023-09-11,,false,
+ORD00393,pending,4065.59,2020-09-14,,false,Llamar antes de entregar
+ORD00394,shipped,189.81,2023-05-19,,false,Entregar en recepción
+ORD00395,returned,4224.0,2023-02-02,,true,Urgente
+ORD00396,shipped,2629.12,2021-08-04,,true,Llamar antes de entregar
+ORD00397,cancelled,19.85,2025-03-26,,true,Entregar en recepción
+ORD00398,shipped,3839.08,2023-04-20,,true,Producto regalo
+ORD00399,shipped,1143.45,2022-05-31,,true,Urgente
+ORD00400,shipped,2218.73,2025-03-11,,true,
+ORD00401,pending,93.0,2022-03-06,,true,
+ORD00402,pending,538.27,2022-04-25,,true,Sin factura
+ORD00403,delivered,3931.37,2024-08-28,2024-09-24,false,Producto regalo
+ORD00404,cancelled,897.65,2023-02-21,,true,Urgente
+ORD00405,delivered,3078.56,2025-06-26,2025-07-26,true,
+ORD00406,processing,3492.86,2023-05-10,,false,Producto regalo
+ORD00407,delivered,881.43,2024-09-05,2024-09-30,false,Producto regalo
+ORD00408,returned,4246.5,2020-05-09,,true,Urgente
+ORD00409,returned,1292.52,2023-07-01,,true,Urgente
+ORD00410,delivered,1644.95,2025-07-11,2025-07-21,true,Llamar antes de entregar
+ORD00411,returned,4547.34,2023-08-06,,true,Llamar antes de entregar
+ORD00412,returned,1233.14,2025-03-31,,false,
+ORD00413,shipped,1280.79,2025-01-18,,true,Producto regalo
+ORD00414,returned,2610.41,2025-08-18,,true,
+ORD00415,processing,4031.06,2025-03-16,,true,
+ORD00416,shipped,3783.36,2024-03-26,,false,Sin factura
+ORD00417,delivered,3844.71,2023-03-31,2023-04-28,true,
+ORD00418,returned,1720.38,2023-04-01,,false,Llamar antes de entregar
+ORD00419,returned,3603.2,2020-08-28,,true,Entregar en recepción
+ORD00420,processing,2084.43,2021-02-14,,true,
+ORD00421,processing,4950.43,2023-04-18,,true,Entregar en recepción
+ORD00422,processing,3949.42,2022-05-30,,true,Llamar antes de entregar
+ORD00423,shipped,2092.0,2022-09-29,,true,
+ORD00424,cancelled,4816.7,2021-10-25,,true,
+ORD00425,delivered,1523.3,2024-08-28,2024-09-19,true,Urgente
+ORD00426,processing,3077.59,2021-09-01,,true,
+ORD00427,processing,2338.96,2021-04-08,,true,Producto regalo
+ORD00428,shipped,2290.09,2020-10-26,,true,
+ORD00429,pending,4627.55,2021-02-10,,true,Llamar antes de entregar
+ORD00430,returned,4190.26,2025-12-04,,true,Entregar en recepción
+ORD00431,processing,1373.9,2020-10-10,,true,Sin factura
+ORD00432,shipped,2318.61,2020-10-27,,true,Urgente
+ORD00433,pending,3881.15,2024-07-16,,true,Producto regalo
+ORD00434,returned,123.17,2022-04-07,,false,Producto regalo
+ORD00435,shipped,201.98,2021-07-15,,true,Sin factura
+ORD00436,pending,2895.46,2021-01-13,,true,Llamar antes de entregar
+ORD00437,pending,704.31,2023-04-22,,true,Producto regalo
+ORD00438,pending,1881.6,2022-07-11,,true,Producto regalo
+ORD00439,delivered,3146.26,2023-03-30,2023-04-20,true,Sin factura
+ORD00440,delivered,4671.85,2020-02-04,2020-03-03,true,
+ORD00441,delivered,3477.93,2024-05-31,2024-06-24,false,
+ORD00442,processing,3735.55,2020-12-25,,true,Producto regalo
+ORD00443,cancelled,4324.31,2023-10-23,,true,
+ORD00444,shipped,1338.01,2025-05-02,,true,Entregar en recepción
+ORD00445,processing,1111.5,2024-11-03,,true,
+ORD00446,returned,4444.16,2024-03-21,,true,Llamar antes de entregar
+ORD00447,returned,4361.68,2022-03-25,,true,
+ORD00448,shipped,3623.82,2024-08-18,,false,Urgente
+ORD00449,pending,2666.19,2023-07-05,,true,Urgente
+ORD00450,processing,3954.56,2025-04-27,,true,Llamar antes de entregar
+ORD00451,processing,4743.74,2025-06-24,,true,Producto regalo
+ORD00452,shipped,2296.66,2021-10-25,,true,Sin factura
+ORD00453,shipped,1730.67,2022-01-01,,true,Llamar antes de entregar
+ORD00454,processing,116.43,2020-04-18,,true,
+ORD00455,pending,3807.73,2023-05-14,,false,
+ORD00456,cancelled,4003.05,2025-04-22,,false,Llamar antes de entregar
+ORD00457,returned,2206.53,2022-05-05,,true,Sin factura
+ORD00458,processing,2976.83,2024-04-06,,false,
+ORD00459,cancelled,4008.02,2022-05-30,,true,Urgente
+ORD00460,returned,3147.89,2020-02-04,,true,Entregar en recepción
+ORD00461,processing,1680.03,2023-11-19,,true,Urgente
+ORD00462,delivered,2277.61,2022-01-20,2022-02-12,true,
+ORD00463,pending,4087.53,2025-06-19,,true,Entregar en recepción
+ORD00464,cancelled,4202.95,2023-06-29,,true,
+ORD00465,processing,3693.07,2020-05-10,,true,
+ORD00466,shipped,2457.76,2020-09-13,,false,Urgente
+ORD00467,cancelled,2062.17,2022-04-24,,true,Llamar antes de entregar
+ORD00468,shipped,1705.57,2021-12-23,,true,Sin factura
+ORD00469,processing,2482.41,2023-06-19,,true,Sin factura
+ORD00470,delivered,1162.59,2025-05-02,2025-06-01,true,Urgente
+ORD00471,returned,2572.36,2022-06-02,,true,Sin factura
+ORD00472,shipped,2697.2,2020-12-09,,true,
+ORD00473,delivered,4543.98,2021-12-14,2021-12-20,true,Entregar en recepción
+ORD00474,processing,3895.94,2024-10-04,,true,
+ORD00475,pending,10.98,2021-05-25,,false,Sin factura
+ORD00476,returned,3309.45,2021-08-01,,false,Urgente
+ORD00477,processing,3476.27,2025-05-02,,true,Producto regalo
+ORD00478,shipped,1991.12,2023-09-15,,true,Producto regalo
+ORD00479,returned,2203.53,2021-07-14,,true,Urgente
+ORD00480,delivered,2967.99,2023-12-19,2024-01-01,true,Urgente
+ORD00481,returned,2594.76,2021-06-10,,true,Sin factura
+ORD00482,pending,1435.32,2023-02-01,,true,Sin factura
+ORD00483,pending,444.88,2022-08-27,,true,Producto regalo
+ORD00484,pending,1940.33,2023-07-25,,true,
+ORD00485,cancelled,1971.97,2021-05-27,,true,Urgente
+ORD00486,delivered,1162.17,2020-02-10,2020-02-18,true,Llamar antes de entregar
+ORD00487,processing,2977.52,2021-05-16,,true,
+ORD00488,delivered,3479.31,2024-10-17,2024-10-20,true,
+ORD00489,cancelled,4774.23,2024-12-08,,true,
+ORD00490,returned,4766.63,2023-04-06,,true,Llamar antes de entregar
+ORD00491,pending,3232.2,2022-03-25,,true,
+ORD00492,returned,2349.7,2023-10-12,,false,Llamar antes de entregar
+ORD00493,delivered,4340.41,2021-05-11,2021-06-07,true,Sin factura
+ORD00494,delivered,3791.26,2022-05-10,2022-05-18,true,Llamar antes de entregar
+ORD00495,returned,992.3,2022-06-27,,true,Llamar antes de entregar
+ORD00496,delivered,4070.02,2025-02-13,2025-03-08,true,Producto regalo
+ORD00497,pending,4138.18,2020-08-16,,false,
+ORD00498,delivered,2144.14,2023-10-10,2023-11-03,true,
+ORD00499,pending,4683.12,2024-05-02,,true,Urgente
+ORD00500,pending,2110.1,2021-08-29,,false,Sin factura

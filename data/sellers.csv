@@ -1,0 +1,101 @@
+sellerId,name,email,rating,joinedAt,isVerified,country
+SEL0001,FastPro,contact@fastpro.com,2.91,2016-08-28,true,España
+SEL0002,BestTrading,contact@besttrading.com,3.56,2019-03-14,false,Colombia
+SEL0003,FastExpress,contact@fastexpress.com,4.92,2018-06-10,true,Paraguay
+SEL0004,GlobalShop,contact@globalshop.com,3.96,2016-07-24,true,Guatemala
+SEL0005,RapidMarket,contact@rapidmarket.com,2.67,2018-01-31,true,Uruguay
+SEL0006,SmartPro,contact@smartpro.com,4.85,2017-05-06,true,Bolivia
+SEL0007,StarShop,contact@starshop.com,2.7,2022-12-11,true,Chile
+SEL0008,FastDirect,contact@fastdirect.com,3.16,2018-09-04,true,Uruguay
+SEL0009,TopTrading,contact@toptrading.com,4.82,2019-07-19,true,Guatemala
+SEL0010,FlexOutlet,contact@flexoutlet.com,4.99,2022-04-25,true,Ecuador
+SEL0011,FastRetail,contact@fastretail.com,2.83,2018-12-22,true,México
+SEL0012,SmartPlus,contact@smartplus.com,2.89,2019-03-13,true,Bolivia
+SEL0013,RapidStore,contact@rapidstore.com,4.54,2023-06-28,true,Uruguay
+SEL0014,SuperHub,contact@superhub.com,2.79,2018-12-19,true,Paraguay
+SEL0015,EasyHub,contact@easyhub.com,3.2,2019-01-20,true,Paraguay
+SEL0016,GlobalPlace,contact@globalplace.com,4.09,2023-09-16,true,Ecuador
+SEL0017,NextPoint,contact@nextpoint.com,2.73,2016-07-27,false,Panamá
+SEL0018,BestShop,contact@bestshop.com,3.33,2016-01-15,true,Uruguay
+SEL0019,BestWorld,contact@bestworld.com,3.88,2020-12-14,false,Ecuador
+SEL0020,TechZone,contact@techzone.com,4.86,2016-11-04,true,Ecuador
+SEL0021,MegaPlus,contact@megaplus.com,3.88,2022-07-13,false,Colombia
+SEL0022,MegaExpress,contact@megaexpress.com,4.75,2020-02-02,true,Perú
+SEL0023,FastCenter,contact@fastcenter.com,2.76,2023-06-24,false,Bolivia
+SEL0024,ProCenter,contact@procenter.com,4.94,2017-10-27,true,España
+SEL0025,TechWorld,contact@techworld.com,4.46,2019-09-22,false,Costa Rica
+SEL0026,SmartPoint,contact@smartpoint.com,4.47,2017-10-14,true,España
+SEL0027,MegaCommerce,contact@megacommerce.com,3.0,2018-06-30,false,Perú
+SEL0028,TopCenter,contact@topcenter.com,2.56,2018-07-02,true,España
+SEL0029,GlobalPoint,contact@globalpoint.com,4.92,2016-10-11,true,Perú
+SEL0030,RapidPro,contact@rapidpro.com,4.95,2023-08-15,true,Guatemala
+SEL0031,SuperPoint,contact@superpoint.com,3.95,2018-01-01,true,Guatemala
+SEL0032,SuperOutlet,contact@superoutlet.com,3.36,2020-11-14,true,España
+SEL0033,StarRetail,contact@starretail.com,3.46,2017-04-18,true,Chile
+SEL0034,MegaSolutions,contact@megasolutions.com,3.8,2016-01-07,true,Perú
+SEL0035,PremiumMarket,contact@premiummarket.com,4.8,2023-06-13,true,Uruguay
+SEL0036,SuperExpress,contact@superexpress.com,3.27,2021-09-08,false,Perú
+SEL0037,EliteExpress,contact@eliteexpress.com,2.82,2022-03-20,false,Uruguay
+SEL0038,EliteWorld,contact@eliteworld.com,3.92,2022-11-26,false,Ecuador
+SEL0039,TechExpress,contact@techexpress.com,3.03,2019-03-21,true,Venezuela
+SEL0040,FlexTrading,contact@flextrading.com,3.03,2023-07-30,false,Costa Rica
+SEL0041,MaxMarket,contact@maxmarket.com,3.79,2019-03-08,true,México
+SEL0042,SmartExpress,contact@smartexpress.com,4.52,2018-07-09,true,Guatemala
+SEL0043,MegaCenter,contact@megacenter.com,4.03,2021-04-30,true,Venezuela
+SEL0044,PremiumDepot,contact@premiumdepot.com,4.3,2018-03-07,false,Venezuela
+SEL0045,EliteCenter,contact@elitecenter.com,4.14,2017-08-27,true,Costa Rica
+SEL0046,SuperSolutions,contact@supersolutions.com,2.94,2018-06-15,false,Guatemala
+SEL0047,EasyCenter,contact@easycenter.com,3.64,2017-05-12,false,Uruguay
+SEL0048,RapidSupply,contact@rapidsupply.com,3.29,2022-09-04,false,Bolivia
+SEL0049,RapidSolutions,contact@rapidsolutions.com,3.61,2022-02-22,true,Paraguay
+SEL0050,NextTrading,contact@nexttrading.com,4.38,2018-11-27,true,Costa Rica
+SEL0051,RapidCommerce,contact@rapidcommerce.com,3.1,2023-01-11,false,México
+SEL0052,TopCenter,contact@topcenter.com,3.34,2019-01-17,true,Colombia
+SEL0053,ProCenter,contact@procenter.com,4.23,2020-04-17,true,México
+SEL0054,PremiumSolutions,contact@premiumsolutions.com,3.86,2019-09-17,false,Guatemala
+SEL0055,FastSolutions,contact@fastsolutions.com,4.76,2020-05-14,true,Panamá
+SEL0056,QuickPro,contact@quickpro.com,2.51,2021-05-07,true,Chile
+SEL0057,EliteSolutions,contact@elitesolutions.com,4.37,2022-01-13,true,Venezuela
+SEL0058,SmartPoint,contact@smartpoint.com,3.71,2020-11-20,false,Perú
+SEL0059,EliteWorld,contact@eliteworld.com,4.8,2021-03-29,true,España
+SEL0060,QuickDepot,contact@quickdepot.com,2.57,2023-06-08,false,Colombia
+SEL0061,FlexWorld,contact@flexworld.com,3.15,2016-07-24,true,Argentina
+SEL0062,FlexDirect,contact@flexdirect.com,4.4,2019-10-14,false,Chile
+SEL0063,PremiumPoint,contact@premiumpoint.com,3.68,2016-12-01,true,Perú
+SEL0064,SmartMarket,contact@smartmarket.com,2.6,2023-04-23,true,Argentina
+SEL0065,FastStore,contact@faststore.com,2.88,2022-12-19,true,Venezuela
+SEL0066,SuperDepot,contact@superdepot.com,3.66,2018-06-11,true,Costa Rica
+SEL0067,PrimeWorld,contact@primeworld.com,4.02,2022-10-17,true,Costa Rica
+SEL0068,MaxExpress,contact@maxexpress.com,3.95,2017-03-18,true,Bolivia
+SEL0069,ElitePro,contact@elitepro.com,2.69,2018-03-23,true,México
+SEL0070,TopOutlet,contact@topoutlet.com,4.49,2017-05-10,true,Perú
+SEL0071,EasySolutions,contact@easysolutions.com,3.43,2023-06-02,true,Guatemala
+SEL0072,PremiumCommerce,contact@premiumcommerce.com,3.58,2017-03-08,true,Uruguay
+SEL0073,FlexHub,contact@flexhub.com,2.94,2020-11-18,true,Bolivia
+SEL0074,EasyCommerce,contact@easycommerce.com,3.59,2021-03-19,true,Perú
+SEL0075,SmartMarket,contact@smartmarket.com,4.7,2019-02-16,true,Costa Rica
+SEL0076,FlexDepot,contact@flexdepot.com,4.17,2022-11-04,true,Guatemala
+SEL0077,NextDirect,contact@nextdirect.com,3.72,2018-01-14,true,Costa Rica
+SEL0078,BestDirect,contact@bestdirect.com,4.7,2019-02-19,true,Ecuador
+SEL0079,TechRetail,contact@techretail.com,2.71,2018-02-21,false,Venezuela
+SEL0080,EasyCenter,contact@easycenter.com,3.69,2023-09-29,false,Venezuela
+SEL0081,TechMarket,contact@techmarket.com,3.05,2019-04-20,true,Chile
+SEL0082,QuickPlus,contact@quickplus.com,3.88,2021-04-22,true,España
+SEL0083,EasyDirect,contact@easydirect.com,4.26,2019-12-12,true,Chile
+SEL0084,BestCenter,contact@bestcenter.com,4.3,2017-05-09,true,México
+SEL0085,EasyWorld,contact@easyworld.com,3.04,2018-02-23,false,Chile
+SEL0086,QuickRetail,contact@quickretail.com,3.21,2022-09-10,true,Panamá
+SEL0087,FastExpress,contact@fastexpress.com,3.4,2018-07-20,true,Guatemala
+SEL0088,EasyHub,contact@easyhub.com,2.61,2019-01-28,true,Ecuador
+SEL0089,TopHub,contact@tophub.com,4.67,2023-02-25,false,México
+SEL0090,TechDepot,contact@techdepot.com,3.67,2019-03-10,false,Perú
+SEL0091,MaxShop,contact@maxshop.com,4.85,2018-10-31,false,México
+SEL0092,UltraPro,contact@ultrapro.com,2.69,2021-07-07,true,Colombia
+SEL0093,ProDepot,contact@prodepot.com,2.71,2019-05-29,true,México
+SEL0094,EasySolutions,contact@easysolutions.com,3.99,2022-10-19,true,Costa Rica
+SEL0095,RapidPro,contact@rapidpro.com,4.77,2021-01-19,true,Panamá
+SEL0096,QuickSolutions,contact@quicksolutions.com,3.92,2019-06-04,true,Bolivia
+SEL0097,SuperPlace,contact@superplace.com,3.03,2023-01-06,true,Colombia
+SEL0098,SmartWorld,contact@smartworld.com,2.69,2022-03-10,true,España
+SEL0099,FlexOutlet,contact@flexoutlet.com,3.23,2021-04-08,true,Chile
+SEL0100,TopTrading,contact@toptrading.com,4.22,2016-10-18,true,Costa Rica
